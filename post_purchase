@@ -1,0 +1,1098 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>KEH Camera</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1, user-scalable=yes">
+<style> @media screen {
+@font-face {
+font-family: 'Apercu';
+src: url('https://image.keh.com/custloads/794428135/md_262452.woff2') format('woff2'),
+url('https://image.keh.com/custloads/794428135/md_262451.woff') format('woff'),
+url('https://image.keh.com/custloads/794428135/md_262450.ttf') format('truetype');
+font-weight: 400;
+font-style: normal;
+mso-font-alt: 'Helvetica';
+}
+@font-face {
+font-family: 'portrait';
+src: url('https://image.keh.com/custloads/794428135/md_287789.otf') format('opentype'),
+url('https://image.keh.com/custloads/794428135/md_287790.otf') format('opentype'),
+font-weight: 600;
+font-style: normal;
+mso-font-alt: 'Helvetica';
+}
+} </style>
+<!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
+<!--[if (gte mso 9)]>
+<style type="text/css">
+table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border:0;}
+table td, table th {border-collapse:collapse; font-size:1px; line-height:1px;}
+.inpl-not-mailing table {border-collapse:separate;}
+.lh {line-height:100% !important;}
+.inpl-not-mailing .lh, .inpl-not-mailing .lh font {line-height:1.2 !important;}
+.lh15p {line-height:125% !important;}
+.inpl-not-mailing .lh15p, .inpl-not-mailing .lh15p font {line-height:1.5 !important;}
+.lh20p {line-height:167% !important;}
+.inpl-not-mailing .lh20p, .inpl-not-mailing .lh20p font {line-height:2 !important;}
+</style>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+<style type="text/css">
+.ol600 {width:600px;}
+.ol610 {width:600px;}
+.olcta {padding:0 !important; background-color:none !important; background-image:none !important; background:none !important; border:none !important; -moz-border-radius:0 !important; -webkit-border-radius:0 !important; border-radius:0 !important;}
+.oltd1 {padding:13px 0; line-height:normal !important;}
+.oltd12 {padding:9px 0; line-height:normal !important;}
+.inpl-not-mailing .cta1a {color:#ffffff !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:13px 0 !important;}
+.ctaBuyers {color:#F56438 !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:13px 0 !important;}
+.inpl-not-mailing .cta1a2 {color:#ffffff !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:9px 0 !important;}
+.inpl-not-mailing .oltd1 {padding:0 !important; line-height:normal !important;}
+.inpl-not-mailing .oltd12 {padding:0 !important; line-height:normal !important;}
+</style>
+<![endif]-->
+<style>
+#body #nobluelinks a[x-apple-data-detectors]{
+color: inherit !important;
+text-decoration: inherit !important;
+}
+
+.disabled {
+pointer-events: none;
+cursor: default;
+}
+.ff {font-family:'apercu', Helvetica, sans-serif;}
+.lh, .lh font {line-height:1.2;}
+.fwn{font-weight:normal;}
+.fwb{font-weight:bold;}
+.tdn{text-decoration:none;}
+.fs9{font-size:9px;}
+.fs10{font-size:10px;}
+.fs11{font-size:11px;}
+.fs12{font-size:12px;}
+.fs14{font-size:14px;}
+.fs16{font-size:16px;}
+.fs20{font-size:20px;}
+.fc1{color:#28343A;}
+.fc2{color:#ffffff;}
+.fc3{color:#f56438;}
+.vat{vertical-align:top;}
+.vam{vertical-align:middle;}
+.vab{vertical-align:bottom;}
+h2 {font-size:26px !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+@media only screen and (max-width:414px) {
+.topPad25 {padding-top:25px !important;} 
+.padBot20 {padding-bottom:20px !important;}
+.stackerBulletHeadline {font-size: 28px !important;line-height:130% !important;padding-bottom:10px !important;padding-top:0px !important;text-transform: capitalize !important;}
+.stacker-text-container {width:80% !important;max-width:80%;}
+.padBot15 {padding-bottom:15px !important;}
+.padBot20 {padding-bottom:20px !important;}
+.stacker-border {border-bottom:1 #F5F5F5 solid !important;}
+.padTop0 {padding-top:0px !important;}
+.pad0 {padding:0px !important;}
+.bulletImg {width:90px !important;height:90px !important;text-align: center !important;}
+.mobile-bullet-text-width {width:350px;max-width:350px;}
+.mobile-bottom-pad-45 {padding-bottom: 45px !important;}
+.bulletText {text-align: center !important;font-size:20px !important;}
+
+.bulletImg150 {width:150px !important;height:150px !important;text-align: center !important;}
+
+.em_wrapper_50_1 {width: 45% !important;margin: 6px 6px !important;}
+.em_h40 {height: 40px !important;}
+.em_side24 {width: 24px !important;}
+.em_h70 {height: 70px !important;}
+
+.fw-margin-10 {margin: 0 10px!important; width:100% !important; min-width:0 !important;}
+.contentCaption {font-size:10px !important;font-style: italic !important;color:#516169 !important;}
+h1[class="date_fix"] {
+font-size: 24px !important;
+padding-bottom: 20px !important;
+}
+td[class="no_dis"] {
+display: none;
+}
+table[class="mobile_width"] {
+width: 320px !important;
+}
+table[class="mobile_button"] {
+display: block !important;
+width: 320px !important;
+max-height: 82px !important;
+overflow: visible !important;
+float: none !important;
+}
+td[class="gmailfix"] {
+display: block !important;
+width: 320px !important;
+max-height: 82px !important;
+overflow: visible !important;
+float: none !important;
+padding-bottom: 15px !important;
+}
+td[class="show_button"] {
+height: 45px !important;
+}
+.catTitle2 {font-size:22px !important;} 
+.catMobile2 {width:290px !important;height:auto!important;} 
+.mobileBotPad20 {padding-bottom:20px !important;} 
+.fullCat {width: 100% !important;height: auto !important;} 
+.imgFull {width:295px !important;height:auto !important;} 
+.img295 {width:295px !important;height:auto !important;}
+.giftcard {width:200px !important;max-width:100% !important;height:200px !important;display:block !important;}
+.giftcardContainer {width:100% !important;max-width:100% !important;height:auto !important;display:block !important;}
+.vat-mobile {vertical-align:top !important;}
+.contentText {width:84% !important;}
+.mobile9 {font-size: 9px !important;}
+.mobile10 {font-size: 10px !important;}
+.mobile12 {font-size: 12px !important;}
+.mobile15 {font-size: 15px !important;}
+.mobile-font-16 {font-size: 16px !important;}
+.mobile-font-18 {font-size: 18px !important;}
+.mobile-font-18-lh145 {font-size: 18px !important;line-height:145% !important;}
+.mobile-font-20 {font-size: 20px !important;}
+.mobile-font-22 {font-size: 22px !important;line-height:23px !important;}
+.mobile-font-24 {font-size: 24px !important;}
+.mobile-font-26 {font-size: 26px !important;}
+.blogHeadline {font-size: 28px !important;line-height:125% !important;} 
+.blogText {font-size: 20px !important;line-height:130% !important;}
+.centerText {text-align: center !important;}
+.lh135 {line-height:135% !important;}
+.wInner { width: 90% !important; }
+.mobile-width-65px {width:65px!important;max-width:65px !important;height:62px !important;} 
+.mobile-width-50px {width:50px!important;max-width:50px !important;height:50px !important;} 
+.mobile-top-pad-30 {padding-top:30px;} 
+.timerImage {width: 250px !important;max-width:60% !important;}
+.headerLogo {width: 100px !important;max-width: 100px !important; }
+.rw15 {width: 15px !important;}
+.catTitle {font-size:13px !important}
+.hide-mobile {display:none !important;}
+.full {display:block !important; width:100% !important;}
+.halfWidth {width:50% !important; min-width:0 !important;}
+.fw {width:100% !important; min-width:0 !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+.image {width:100% !important; height:auto !important;}
+.gf { font-size:17px !important; font-size:4.72vw !important; }
+h2 {font-size:25px !important;}
+.mainHeadline {font-size: 34px !important;}
+.bigHeadline {font-size: 38px !important}
+.xsmall {font-size:13px !important; font-size:3.61vw !important;}
+.rw10 {width: 10px !important;}
+.rh10, .rh10 div {height:10px !important; height:2.78vw !important;}
+.height5, .height5 div {height:5px !important; height:1.39vw !important;}
+u + .body .gwfw { width:100% !important; width:100vw !important;}
+.fs12{font-size:3.33vw!important;}
+.fs14{font-size:3.88vw!important;}
+.fs16{font-size:4.44vw!important;}
+.fs20{font-size:5.55vw!important;}
+.pr4{padding-right: 4px!important;}
+.halfwidth {width: 50%!important;}
+.floatleft {float: left!important;}
+.ctaMobile {font-size:22px !important;padding:18px 40px !important;}
+}
+@media only screen and (width:375px) {
+.padSides8 {padding:0 8px 0 7px !important;}
+h2 {font-size:25px !important;}
+.ff {font-family:'apercu', Helvetica, sans-serif;}
+.mainHeadline {font-size: 34px !important;}
+.mobile-font-18 {font-size: 18px !important;}
+}
+<!--
+body {margin:0; padding:0; background:#f5f5f5; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+a, a:active, a:visited, .yshortcuts, .yshortcuts span a {text-decoration:none; font-weight:normal; color:#ffffff;}
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+[office365] td div, [office365] button {display:block !important;}
+table th {padding:0; Margin:0; border:0; font-weight:normal; vertical-align:top;}
+-->
+
+@media only screen and (max-width:360px) {
+.h2 {font-size:19px !important;}
+h2 {font-size:25px !important;}
+}
+</style>
+</head>
+<body id="body" class="body" width="600" align="center" bgcolor="#F5F5F5" style="background-color: #F5F5F5;"><div ems:preheader style="display:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all">Our favorite lenses and add-ons to make the most of your new-to-you camera.</div>
+<!--[if mso]>
+<style type="text/css">
+body, table, td {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" bgcolor="#f5f5f5" class="gwfw">
+<tr>
+<td width="100%" align="center" valign="top" bgcolor="#F5F5F5" style="background-color: #F5F5F5;">
+<table id="nobluelinks" class="fw" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#F5F5F5" style="max-width: 600px; background-color: #F5F5F5;">
+<tr>
+<td style="padding:0 0px;" class="padSides8">
+<table style="max-width:600px;background-color: #F5F5F5;" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#f5f5f5" class="ol600 fw">
+<!--[if mso]>
+<center>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<![endif]-->
+<tr e-block-id="5f8f09edb71961abd5000001">
+<td>
+<!--[if mso]>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tr><td>
+<![endif]-->
+<table align="center" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" style="width:100%;background-color:#28343a;max-width:600px;"> <tr>
+<td colspan="4" height="10" class="rw10"><div></div></td>
+</tr>
+<tr>
+<td width="10" class="rw10"></td>
+<td align="left">
+<table cellspacing="0" cellpadding="0" border="0"> <!--[if mso]>
+<style type="text/css">
+body, table, td, span {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center"><a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #ffffff;"><img src="https://image.keh.com/custloads/794428135/md_395547.png" width="14" border="0" style="display: block; width: 14px;" alt="KEH Phone Number"></a></td>
+<td width="5" class="rw10"></td>
+<td align="left" class="lh vam" valign="middle" style="line-height: 1.2; vertical-align: middle;"><font class="ff fs12 xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #ffffff; line-height: 1.2;"><span class="la1b xsmall"><a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #ffffff;">1-800-DIALKEH</a></span></font></td>
+</tr>
+</table>
+</td>
+<td align="right" class="vam" valign="middle" style="vertical-align: middle;">
+<table cellspacing="0" cellpadding="0" border="0" class="fw">
+<tr>
+<td align="center" class="lh" style="line-height: 1.2;"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_1&ems_l=3780343&i=1&d=MTYwODgxNTY5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcA%3D%3D%7C&_esuh=_11_5208ef98f735058e08e99e951f31b41a1e0662e606ecb14fb2ea7bf2326e870b" target="_blank" class="tdn" title="Free shipping" style="font-weight: normal; text-decoration: none; color: #ffffff;"><font class="lh ff fs14 xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; color: #ffffff; line-height: 1.2;"><span e-editable="copy" class="xsmall">Free shipping on orders $49+</span></font></a></td>
+</tr>
+</table>
+</td>
+<td width="15" class="rw10"></td>
+</tr>
+<tr>
+<td colspan="4" height="10" class="rh10"><div></div></td>
+</tr>
+</table>
+</td>
+</tr><tr e-block-id="5fd14575e4463d69b8000001">
+<td height="35" align="center" valign="middle" class="vam" style="vertical-align: middle;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="background-color: #f5f5f5;">
+<tr>
+<td align="center" valign="top" width="600">
+<![endif]-->
+<table cellspacing="0" cellpadding="0" border="0" style="background-color: #f5f5f5;"> <!--[if mso]>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center" height="100"><a title="KEH" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_3&ems_l=3780343&i=1&d=MTYwODgxNTcx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcA%3D%3D%7C&_esuh=_11_342029dd69ce050d262c50a09a93935f1cf02db228c234f8cf8acb5a0265a9f3" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img class="headerLogo" alt="KEH Camera Logo" e-editable="logo" src="https://image.keh.com/custloads/794428135/md_379346.png" width="120" height="auto" border="0" style="max-width:120px;"></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink1" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_5&ems_l=3780343&i=1&d=MTYwODgxNTcz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcA%3D%3D%7C&_esuh=_11_2d09cfcb89247c00da6cf3adc1b57e60db41c4526bda8cf04c0962e97ce9a739" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav1" class="mobile9 ff xsmall">SHOP</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink2" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_7&ems_l=3780343&i=1&d=MTYwODgxNTc1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU1lH%7C&_esuh=_11_5d76d0852fa43664a7fc1b8c25d745878bb4cbd0d0723718b45c5b7a4d5b7eda" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav2" class="mobile9 ff xsmall">SELL</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink3" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_9&ems_l=3780343&i=1&d=MTYwODgxNTc3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CUmVwYWly%7C&_esuh=_11_8a312522f1ee82523bc1516f8fc13a74d86de601aabb5051bd189d4022744dad" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav3" class="mobile9 ff xsmall">REPAIR</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink4" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_11&ems_l=3780343&i=1&d=MTYwODgxNTc5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_eaf45d4100fca7ac0f83fff7233dce67dfebbaf99b90c296b66e2e760896a85c" target="_blank" class="ff fc1 fwb tdn mobile9" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav4" class="mobile9 ff xsmall">BLOG</span></font></a></td>
+<td width="30" class="rw15"></td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr e-block-id="5f89fd5399c2442573000001">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="Shop Canon" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_13&ems_l=3780343&i=1&d=MTYwODgxNTgx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcCtDYW5vbg%3D%3D%7C&_esuh=_11_44a0c4f1460bae97a50a871dc4fa10930ddc30279f14ebe497c5f5e7491ce61e" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_610941.jpg" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="Shop Canon"></a></td>
+</tr>
+<tr e-block-id="618d39c3abf48eb40b000003">
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600px" style="background-color:#ffffff;width:600px;">
+<tr>
+<td align="center" valign="top" width="600px" style="width:600px;">
+<![endif]-->
+<table class="fw" border="0" cellpadding="0" cellspacing="0" width="600px" style="max-width:600px;background-color:#ffffff;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="fw" align="center" border="0" cellpadding="0" cellspacing="0" width="600px" style="background-color:#ffffff;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, p {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td style="background-color:#ffffff;" class="hide-mobile" width="25"></td>
+<td valign="top" style="padding-left:5px; padding-right:5px; padding-top:22px;padding-bottom:25px; text-align:left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;font-family: 'apercu', Helvetica, sans-serif;background-color:#ffffff;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, p {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<p e-editable="copy" class="mobile-font-18" style="color: #28343a;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:5px;padding-left:5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">Here comes the exciting part. Truly make it your own with these suggested add-ons.</p>
+</td>
+<td class="hide-mobile" width="25" style="background-color:#ffffff;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+</td></tr></table>
+<![endif]-->
+</td>
+</tr><tr e-block-id="5e96207cfb2b34d58800000a">
+<td>
+<!--Section 1 - HEADER-->
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table class="fw" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#ffffff;min-width: 100%; max-width:600px;">
+<tbody>
+<tr>
+<td valign="top" style="padding-top:8px;padding-bottom:6px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color:#ffffff;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;max-width:600px;">
+<tbody>
+<tr>
+<td valign="top" style="padding-left:15px; padding-right:5px; padding-top:10px; padding-bottom:5px;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 150%;background-color:#ffffff;">
+<p e-editable="Browse By" class="mobile-font-18" style=" font-size:20px; display: block; margin: 0;padding-top:0px;color: #28343a; font-family: 'apercu', Helvetica, sans-serif;font-style: normal;font-weight: bold; line-height: 135%;letter-spacing:normal;text-align: left;">BROWSE EF-MOUNT</p>
+</td>
+<td valign="top" style="padding-left:5px; padding-right:15px; padding-top:10px; padding-bottom:5px;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 150%;background-color:#ffffff;">
+<a e-editable="shop all link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_15&ems_l=3780343&i=1&d=MTYwODgxNTgz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcCtDYW5vbg%3D%3D%7C&_esuh=_11_c0ad3e9a280947968950e02092f5b779e66c45290d82c4febd06953dd2e891e7" class="h3browse" title="Shop all Canon" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><p class="mobile-font-18" e-editable="Shop all" style=" font-size:20px; display: block; margin: 0;padding-top:0px;color: #f56438; font-family: 'apercu', Helvetica, sans-serif;font-style: normal;font-weight: bold; line-height: 135%;letter-spacing: normal;text-align: right;"><span class="h3browse mce-content-body" e-editable="Span" style="font-family: 'apercu', Helvetica, sans-serif !important; outline: none;" e-block-id="5e96207cfb2b34d58800000a" e-link-id="shop all link" data-link-attributes="%7B%22href%22:%22https://www.keh.com/shop/shopby%22,%22title%22:%22Shop%20all%22,%22target%22:%22_blank%22%7D" id="mce_11" spellcheck="false" contenteditable="true">SHOP ALL →</span></p></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><tr style="width:600px;background-color:#fff" bgcolor="#ffffff" e-block-id="5f8efc618166e779e5000001"><td style="width:600px;background-color:#fff;padding-bottom:8px" bgcolor="#ffffff"><!--[if mso]><center>
+<tr align="center"><td align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600px" style="width:600px; background-color: #ffffff;" bgcolor="#ffffff"><![endif]--><table class="fw" width="100%" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0" style="max-width:600px;background-color:#fff;padding-bottom:6px"><tr align="center"><td width="5px" align="center"></td><td align="center" width="190" style="max-width:190;padding:0;margin:auto;-ms-text-size-adjust:none;font-size:16px;text-align:center"><a align="center" e-editable="prod1 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_17&ems_l=3780343&i=1&d=MTYwODgxNTg1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_3d65993457a5ab6b44bee635dd83e27b5d112ef4604c06554415239e94c1e50b" target="_blank" title="Shop Canon EF " style="text-decoration: none; font-weight: 400; color: #fff;"><img align="center" class="image" e-editable="Image1" src="https://image.keh.com/custloads/794428135/md_572318.jpg" width="190" border="0" style="width: 190px;" alt="Canon EF "></a></td><td width="5px" align="center"></td><td align="center" width="190" style="max-width:190;padding:0;margin:auto;-ms-text-size-adjust:none;font-size:16px;text-align:center"><a align="center" e-editable="prod2 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_19&ems_l=3780343&i=1&d=MTYwODgxNTg3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_904a804acdd63375623ae2b246c4b0138bba5e02789a3a63456509d2db81c6d6" target="_blank" title="Shop Third-Party EF Lenses" style="text-decoration: none; font-weight: 400; color: #fff;"><img align="center" class="image" e-editable="Image2" src="https://image.keh.com/custloads/794428135/md_572314.jpg" width="190" border="0" style="width: 190px;" alt="Shop Third-Party EF Lenses"></a></td><td width="5px" align="center"></td><td align="center" width="190" style="max-width:190;padding:0;margin:auto;-ms-text-size-adjust:none;font-size:16px;text-align:center"><a align="center" e-editable="prod3 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_21&ems_l=3780343&i=1&d=MTYwODgxNTg5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_70ad143f69f051eae0c06ee9bab5ebfcc19c6f9b720ce0fed2f174e27b8b4724" target="_blank" title="Canon Accessories" style="text-decoration: none; font-weight: 400; color: #fff;"><img align="center" class="image" e-editable="Image3" src="https://image.keh.com/custloads/794428135/md_607355.jpg" width="190" border="0" style="width: 190px;" alt="Canon Accessories"></a></td><td width="5px" align="center"></td></tr></table><table class="fw" width="100%" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0" style="max-width:600px;background-color:#fff"><tr><td align="center" width="5px"></td><td valign="top" align="left" width="190" style="font-family:apercu,Helvetica,sans-serif;vertical-align:top;max-width:190px;padding-left:5px;padding-right:5px;margin:auto;-ms-text-size-adjust:none;font-size:16px"><a style="line-height: 110%; word-break: break-word; color: #263339; font-weight: 500; text-align: left; vertical-align: top; text-decoration: none; font-family: apercu,Helvetica,sans-serif!important;" e-editable="prod1 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_23&ems_l=3780343&i=1&d=MTYwODgxNTkx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_9b552a440ee5457c8518dedccda910e38517ce6101a601a14a50c67c3e8d629c" target="_blank" title="Shop Canon EF "><span e-editable="catTitle1" class="catTitle" style="line-height:110%;word-break:break-word;color:#263339;font-family:apercu,Helvetica,sans-serif!important;font-weight:500;text-align:left;vertical-align:top;text-decoration:none">Canon EF Lenses</span></a></td><td align="center" width="5px"></td><td valign="top" align="left" width="190" style="font-family:apercu,Helvetica,sans-serif;vertical-align:top;max-width:190px;padding-left:5px;padding-right:5px;margin:auto;-ms-text-size-adjust:none;font-size:16px"><a style="line-height: 110%; word-break: break-word; color: #263339; font-weight: 500; text-align: left; vertical-align: top; text-decoration: none; font-family: apercu,Helvetica,sans-serif!important;" e-editable="prod2 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_25&ems_l=3780343&i=1&d=MTYwODgxNTky%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_37c6513313f5ba8d76473e86751a24658d181b8965fe6a521fcd5d3f3fe90ae7" target="_blank" title="Shop Third-Party EF Lenses"><span e-editable="catTitle2" class="catTitle" style="line-height:110%;word-break:break-word;color:#263339;font-family:apercu,Helvetica,sans-serif!important;font-weight:500;text-align:left;vertical-align:top;text-decoration:none">3rd Party EF Lenses</span></a></td><td align="center" width="5px"></td><td valign="top" align="left" width="190" style="font-family:apercu,Helvetica,sans-serif;vertical-align:top;max-width:190px;padding-left:5px;padding-right:5px;margin:auto;-ms-text-size-adjust:none;font-size:16px"><a style="line-height: 110%; word-break: break-word; color: #263339; font-weight: 500; text-align: left; vertical-align: top; text-decoration: none; font-family: apercu,Helvetica,sans-serif!important;" e-editable="prod3 Link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_27&ems_l=3780343&i=1&d=MTYwODgxNTk0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_4243c500318711608d8d71e72b5d31fbcf8f026028f40deaae9e14fed0db6584" target="_blank" title="Canon Accessories"><span e-editable="catTitle3" class="catTitle" style="line-height:110%;word-break:break-word;color:#263339;font-family:apercu,Helvetica,sans-serif!important;font-weight:500;text-align:left;vertical-align:top;text-decoration:none">Canon Accessories</span></a></td><td align="center" width="5px"></td></tr></table><!--[if mso]></td></tr>
+</table>
+</center><![endif]--></td></tr> <tr e-block-id="6222478efdf9b41f95000001">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 13px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><tr e-block-id="618d70ccabf48eb40b000004">
+<td>
+<!--Section 1 - HEADER-->
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table class="fw" border="0" cellpadding="0" cellspacing="0" width="600" style="min-width: 100%; max-width:600px;background-color:#ffffff;">
+<tbody>
+<tr>
+<td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="450" style="min-width: 450px;max-width:500px;">
+<tbody>
+<tr>
+<td valign="top" style="padding-left:25px; padding-right:25px; padding-top:30px; padding-bottom:5px;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu' Helvetica, sans-serif !important;line-height: 135%;background-color:#ffffff;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h2, span {font-family: Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<h2 class="mainHeadline" e-editable="Headline" style="display: block; margin: 0; padding-top: 0px; color: #28343A; font-weight: bold; line-height: 135%; letter-spacing: normal; text-align: center; font-size: 26px !important; font-family: 'apercu', Helvetica, sans-serif !important;">“How should I build my lens kit?”</h2>
+</td>
+</tr>
+<!-- subtext -->
+<tr>
+<td valign="top" style="padding-left:25px; padding-right:25px; padding-bottom:30px;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu' Helvetica, sans-serif !important;line-height: 135%;background-color:#ffffff;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h2, span {font-family: Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<p style="font-size:16px;display: block; margin: 0;padding-top:5px;color: #28343A; font-family: 'apercu', Helvetica, sans-serif !important;font-weight: normal; line-height: 135%;letter-spacing: normal;text-align: center;">
+<span e-editable="SpanSubtext" style="font-size:16px;font-family: 'apercu', Helvetica, sans-serif !important;">It’s a question we hear all the time. Here are our recommendations.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr> <tr style="width:600px; background-color: #ffffff;" bgcolor="#ffffff" e-block-id="618d7eb4abf48eb40b000007">
+<td style="width:600px; background-color: #ffffff;" bgcolor="#ffffff">
+<!--[if mso]>
+<center>
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#ffffff" style="width:600px; background-color: #ffffff;">
+<![endif]-->	<table cellspacing="5" cellpadding="0" border="0" width="100%" bgcolor="#ffffff" style="max-width:600px; background-color: #ffffff;">
+<tr>
+<td width="40" class="rw40"></td>
+<td>
+<!-- Grey -->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#F5F5F5">
+<tr bgcolor="#F5F5F5"><td height="35" bgcolor="#F5F5F5"></td></tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#F5F5F5">
+<tr>
+<!-- START image-->
+<td valign="center">
+<table cellspacing="0" cellpadding="0" border="0" width="240" height="auto">
+<tr>
+<td align="center">
+<a e-editable="product link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_29&ems_l=3780343&i=1&d=MTYwODgxNTk2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_3b0fbe382e086b9750adf7533b9ab168005728fbcb2488d8d7fb30a0f8df45c1" style="color: #ffffff; font-size: 16px; font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; text-decoration: none !important;" title="Canon EF 50mm f/1.4 USM" target="_blank">
+<img e-editable="img" src="https://image.keh.com/custloads/794428135/md_607366.jpeg" width="200" border="0" style="display: block; width: 200px;" alt="Canon EF 50mm f/1.4 USM">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<!-- END image-->
+<td width="40"></td>
+<td valign="middle">
+<table cellspacing="0" cellpadding="0" border="0" width="200" bgcolor="#F5F5F5" style="max-width:200px;">
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" border="0" width="180" style="max-width:180px">	<tr>
+<td align="left" class="lh" style="line-height: 1.2;">
+<a e-editable="product link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_31&ems_l=3780343&i=1&d=MTYwODgxNTk4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_d718d50e648a944ecfa619ab16ddf43f3d1899388a68d9399d000ec13ed75e02" style="font-size: 15px; font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; color: #28343a; display: inline-block; mso-padding-alt: 0; text-decoration: none !important;" title="Canon EF 50mm f/1.4 USM" target="_blank">
+<font class="ff fs15 fwb mobile-font-16 fc1 la1" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; color: #28343A; line-height: 1.2;"><span e-editable="head" class="la1b mobile-font-16">Canon EF 50mm f/1.4 USM</span>
+</font>
+</a>
+</td>
+</tr>
+<tr>
+<td height="10" class="height5"><div></div></td>
+</tr>
+<tr>
+<td align="left" class="lh" style="line-height: 1.2;"><font class="ff fs14 fc1 fwn gf" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #28343A; line-height: 1.2;"><span e-editable="text" class="la1 gf">This Canon everyday prime is phenomenal for low-light image and shallow depth of field.</span></font></td>
+</tr>
+<tr>
+<td height="10" class="rh10"><div></div></td>
+</tr>
+<!-- START Button--> <tr>
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="180" style="width:180px;">
+<tr>
+<td align="center" valign="top" width="180" style="width:180px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:180px;min-width: 100%;border-collapse: collapse;-webkit-text-size-adjust: 100%;">
+<tr>
+<td align="center" valign="top" width="100%" style="max-width:180px;background-color:#F56438;">
+<!--CTA-->
+<a e-editable="product link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_33&ems_l=3780343&i=1&d=MTYwODgxNjAw%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_e65019402b853f4265c83823614f5848e7f1e1ea341b07edf4b4441be923b17e" class="cta" style="background-color: #F56438; font-size: 16px; font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; text-decoration: none; width: 100%; padding: 10px 0px; color: #ffffff; display: inline-block; mso-padding-alt: 0;" title="Canon EF 50mm f/1.4 USM" target="_blank"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt">&nbsp;</i><![endif]--><span e-editable="CTAtext" style="mso-text-raise:15pt;">SHOP NOW</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]--></a>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</td></tr></table>
+<![endif]-->
+</td>
+</tr>
+<!-- END Button-->	<tr>
+<td align="center" class="lh" style="line-height: 1.2; padding-top: 8px;"> <a style="line-height: 110%; word-break: break-word; color: #f56438; font-weight: normal; text-align: center; vertical-align: middle; text-decoration: none; font-size: 13px; font-family: 'apercu', Helvetica, sans-serif !important;" e-editable="extra link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_35&ems_l=3780343&i=1&d=MTYwODgxNjAy%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7C%7C&_esuh=_11_2dc539a38c43a8f7f4caa411e4fc64e7ae5bc648f02a677e029c1efa7e685989" target="_blank" title="more lenses">
+<font class="mobile-font-15" style="line-height: 1.2;">
+<span e-editable="extra link Copy">More Lenses &gt;</span>
+</font></a>
+</td>
+</tr>
+<tr>
+<td height="9" class="height5"><div></div></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- end 200p wide-->
+</td>
+<td width="8px"></td>
+</tr>
+<!-- grey bottom padding -->
+<tr><td height="35"></td></tr>
+</table>
+</td>
+<td width="40" class="rw40"></td>
+</tr>
+<!-- end grey row -->
+<tr><td height="20"></td></tr>
+</table>
+<!--[if mso]>
+</td></tr>
+</table>
+</center>
+<![endif]-->	</td>
+</tr><tr e-block-id="61953cc8540e6236cb000001">
+<td>
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center" class="full" role="presentation" style="background-color:#ffffff;">
+<tr>
+<td style="font-size:1px;line-height:1px;padding:0px 16px 10px 16px;">
+</td></tr><tr>
+<td style="font-size:1px;line-height:1px;padding:0px 16px 0px 16px;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation" style="background-color:#ffffff;">
+<tr>
+<th style="Margin: 0; border: 0; font-weight: normal; font-size: 1px; line-height: 1px; padding: 0px 8px 16px 0px; vertical-align: top;" align="center" valign="top" class="full floatleft pr0">
+<table width="276" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation" style="background-color:#ffffff;">
+<tr>
+<td style="font-size:1px;line-height:1px;padding:0px 16px 0px 0px;vertical-align:top;" align="center" valign="top" class="pr4 halfwidth">
+<table width="130" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation">
+<tr>
+<td height="172" style="font-family:'apercu',Helvetica,sans-serif;color:#28343a;font-size:14px;font-weight:normal;vertical-align:top;" align="left">
+<a e-editable="link1" title="Canon 24-70mm f/2.8 L II USM" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_37&ems_l=3780343&i=1&d=MTYwODgxNjA0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_003f50388c47b94d76523d5eea921bd3a06524d2b4ca7a308ed7a606e8f5ca20" target="_blank" style="font-weight: normal; color: #28343a; text-decoration: none;">
+<img e-editable="image1" alt="Canon 24-70mm f/2.8 L II USM" src="https://image.keh.com/custloads/794428135/md_610906.jpeg" width="130" height="130" border="0" style="display: block; line-height: 17px; width: 130px; height: 130px;" class="imgfl">
+<!--[if gte mso 12]>
+<!-<img src="https://i.ebayimg.com/00/s/MVgx/z/feIAAOSwcXpbx0mL/$_57.GIF" width="5" height="5" alt="product image" title="" border="0" style="display:block;"/>
+<![endif]-->
+<div e-editable="title1" style="mso-line-height-rule:exactly;line-height:17px;padding:8px 0px 0px 0px;">Canon 24-70mm f/2.8 L II USM</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;padding:8px 0px 0px 0px;">
+<table border="0" cellspacing="0" cellpadding="0" align="left" role="presentation">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 1px;">
+<a e-editable="link1" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_39&ems_l=3780343&i=1&d=MTYwODgxNjA2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_f734f0393d10b2c2ec0c575178e2a4fc18cd172be4845a3583c99f3ad1ee7c7d" title="Canon 24-70mm f/2.8 L II USM" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="seeprice" style="font-family:'apercu', Helvetica, sans-serif; font-size:13px; line-height:22px; color:#F56438; margin:2px 0 0;padding:0; text-align: left;">SEE PRICE ></p></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr></tr>
+</table>
+</td>
+<td style="font-size:1px;line-height:1px;padding:0px 0px 0px 0px;vertical-align:top;" align="center" valign="top" class="pl4 halfwidth">
+<table width="130" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation">
+<tr>
+<td height="172" style="font-family:'apercu',Helvetica,sans-serif;color:#28343a;font-size:14px;font-weight:normal;vertical-align:top;" align="left">
+<a e-editable="link2" title="Canon 100mm f/2.8 L Macro IS USM" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_41&ems_l=3780343&i=1&d=MTYwODgxNjA4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_8caa76f6fa73011a78e65bc791064c8b85bbe89fc5b7e5a58096413d76c6c1b3" target="_blank" style="font-weight: normal; color: #333333; text-decoration: none;">
+<img e-editable="image2" alt="Canon 100mm f/2.8 L Macro IS USM" src="https://image.keh.com/custloads/794428135/md_610907.jpeg" width="130" height="130" border="0" style="display: block; line-height: 17px; width: 130px; height: 130px;" class="imgfl">
+<!--[if gte mso 12]>
+<!-<img src="https://i.ebayimg.com/00/s/MVgx/z/feIAAOSwcXpbx0mL/$_57.GIF" width="5" height="5" alt="product image" title="" border="0" style="display:block;"/>
+<![endif]-->
+<div e-editable="title2" style="mso-line-height-rule:exactly;line-height:17px;padding:8px 0px 0px 0px;">Canon 100mm f/2.8 L Macro IS USM</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;padding:8px 0px 0px 0px;">
+<table border="0" cellspacing="0" cellpadding="0" align="left" role="presentation">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 1px;">
+<a e-editable="link2" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_43&ems_l=3780343&i=1&d=MTYwODgxNjEw%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_3885e15005a30f0d5757c3c2f7a15caa9120cfb274020889461286f00b4a5200" title="Canon 100mm f/2.8 L Macro IS USM" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="seeprice" style="font-family:'apercu', Helvetica, sans-serif; font-size:13px; line-height:22px; color:#F56438; margin:2px 0 0;padding:0; text-align: left;">SEE PRICE ></p></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr></tr>
+</table>
+</td>
+</tr>
+</table>
+</th>
+<th style="Margin: 0; border: 0; font-weight: normal; font-size: 1px; line-height: 1px; padding: 0px 0px 16px 0px; vertical-align: top;" align="center" valign="top" class="full floatleft pl0">
+<table width="276" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation">
+<tr>
+<td style="font-size:1px;line-height:1px;padding:0px 16px 0px 0px;vertical-align:top;" align="center" valign="top" class="pr4 halfwidth">
+<table width="130" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation">
+<tr>
+<td height="172" style="font-family:'apercu',Helvetica,sans-serif;color:#28343a;font-size:14px;font-weight:normal;vertical-align:top;" align="left">
+<a e-editable="link3" title="Canon 16-35mm f/2.8 L II USM" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_45&ems_l=3780343&i=1&d=MTYwODgxNjEy%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_e272054da4a15186f96c59d3baf2ec15d91e6f4571f499b56dc90f03a09b23ac" target="_blank" style="font-weight: normal; color: #333333; text-decoration: none;">
+<img e-editable="image3" alt="Canon 16-35mm f/2.8 L II USM" src="https://image.keh.com/custloads/794428135/md_610918.jpg" width="130" height="130" border="0" style="display: block; line-height: 17px; width: 130px; height: 130px;" class="imgfl">
+<!--[if gte mso 12]>
+<!-<img src="https://i.ebayimg.com/00/s/MVgx/z/feIAAOSwcXpbx0mL/$_57.GIF" width="5" height="5" alt="product image" title="" border="0" style="display:block;"/>
+<![endif]-->
+<div e-editable="title3" style="mso-line-height-rule:exactly;line-height:17px;padding:8px 0px 0px 0px;">Canon 16-35mm f/2.8 L II USM</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;padding:8px 0px 0px 0px;">
+<table border="0" cellspacing="0" cellpadding="0" align="left" role="presentation">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 1px;">
+<a e-editable="link3" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_47&ems_l=3780343&i=1&d=MTYwODgxNjE0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rQ2FtZXJhcw%3D%3D%7C&_esuh=_11_01c1356179bf3b2134ce711f5aee0cb8d78aedda647d9e715a067943400f6683" title="Canon 16-35mm f/2.8 L II USM" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="seeprice" style="font-family:'apercu', Helvetica, sans-serif; font-size:13px; line-height:22px; color:#F56438; margin:2px 0 0;padding:0; text-align: left;">SEE PRICE ></p></a>
+</td>
+</tr>
+</table>
+</td>	</tr>
+<tr></tr>
+</table>
+</td>
+<td style="font-size:1px;line-height:1px;padding:0px 0px 0px 0px;vertical-align:top;" align="center" valign="top" class="pl4 halfwidth">
+<table width="130" border="0" cellspacing="0" cellpadding="0" align="center" class="fullwidth" role="presentation">
+<tr>
+<td height="172" style="font-family:'apercu',Helvetica,sans-serif;color:#28343a;font-size:14px;font-weight:normal;vertical-align:top;" align="left">
+<a e-editable="link4" title="Canon 35mm f/1.4 L USM" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_49&ems_l=3780343&i=1&d=MTYwODgxNjE2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7C%7C&_esuh=_11_f86319f37ef2687a78631d561b7010b1711229cc9e762901e54881f9e789c3ec" target="_blank" style="font-weight: normal; color: #333333; text-decoration: none;">
+<img e-editable="image4" alt="Canon 35mm f/1.4 L USM" src="https://image.keh.com/custloads/794428135/md_610940.jpeg" width="130" height="130" border="0" style="display: block; line-height: 17px; width: 130px; height: 130px;" class="imgfl">
+<!--[if gte mso 12]>
+<!-<img src="https://i.ebayimg.com/00/s/MVgx/z/feIAAOSwcXpbx0mL/$_57.GIF" width="5" height="5" alt="product image" title="" border="0" style="display:block;"/>
+<![endif]-->
+<div e-editable="title4" style="mso-line-height-rule:exactly;line-height:17px;padding:8px 0px 0px 0px;">Canon 35mm f/1.4 L USM</div>
+</a>
+</td>
+</tr>
+<tr>
+<td style="font-size:1px;line-height:1px;padding:8px 0px 0px 0px;">
+<table border="0" cellspacing="0" cellpadding="0" align="left" role="presentation">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 1px;">
+<a e-editable="link4" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_51&ems_l=3780343&i=1&d=MTYwODgxNjE4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7C%7C&_esuh=_11_1ef069dbc6d552b502e3246c510b08bd595a54a334c5edf1774cf84d628323ab" title="Canon 35mm f/1.4 L USM" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="seeprice" style="font-family:'apercu', Helvetica, sans-serif; font-size:13px; line-height:22px; color:#F56438; margin:2px 0 0;padding:0; text-align: left;">SEE PRICE ></p></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr></tr>
+</table>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table></td>
+</tr>
+<!-- Start Button-->
+<tr e-block-id="611bd5d6eb308d859f000003">
+<td style="background-color:#ffffff;">
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;background-color:#ffffff;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-collapse: collapse;-webkit-text-size-adjust: 100%;background-color:#ffffff;">
+<tr>
+<td align="center" valign="top" style="padding:20px 0;">
+<!--CTA-->
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_69&ems_l=3780343&i=1&d=MTYwODgxNjM2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ2Fub24rRUYrRnVsbC1mcmFtZQ%3D%3D%7C&_esuh=_11_7ae340a48aa56c38e66bb2f5765597bdc8fdd1cc8fed2e3ca3d9c44d7915dc5d" class="cta" style="background-color: #F56438; font-size: 18px; font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; text-decoration: none; padding: 12px 30px; color: #ffffff; display: inline-block; mso-padding-alt: 0;" title="ALL CANON EF LENSES" target="_blank"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt">&nbsp;</i><![endif]--><span e-editable="text" style="mso-text-raise:15pt;">MORE COMPATIBLE LENSES</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]--></a>
+</td>
+</tr>
+</table>
+</td>
+</tr> <tr e-block-id="611bd601eb308d859f000004">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 13px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="618d89cfac8072e17c000001">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<img e-editable="img" src="https://image.keh.com/custloads/794428135/md_374155.png" width="600" class="image hide-mobile" border="0" style="display: block; max-width: 600px; width: 600px;" alt="Gear with soul for people with vision"></td>
+</tr>
+<tr e-block-id="611bd08b6d03806708000002">
+<td align="center" valign="middle" style="background-color:#ffffff;">
+<table class="wInner darkmode" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:540px; background-color:#ffffff;">
+<!--This first row is a normal stacking two column row, with direction reversed. This allows the content to do stack on mobile - the column on the right will end up on top of the column to the left.-->
+<tr>
+<td align="center" valign="middle" style="font-size:0; padding: 0 0px;padding-top: 26px;background-color:#ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+<tr>
+<td valign="middle" style="width: 255px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="wFull" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 255px;background-color:#ffffff;">
+<tr>
+<td align="left" valign="middle" style="padding-bottom: 20px;">
+<a e-editable="blog link" title="Every Kit Lens For An Entry-Level Camera Should Be A Nifty Fifty" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_71&ems_l=3780343&i=1&d=MTYwODgxNjM4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_4b4ae1483174169679c5be31098d0d00397353bd6259aa24e93f4a0287dcb5be" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<img e-editable="blogImage" class="imgFull" src="https://image.keh.com/custloads/794428135/md_495467.png" alt="Every Kit Lens For An Entry-Level Camera Should Be A Nifty Fifty" width="225" height="225" style="width: 225px; height: 225px;">
+</a>
+</td>
+</tr>
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td><td valign="middle" style="width:225px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="contentText" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:225px;">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 20px;" class="mobile-bottom-pad-45">
+<a e-editable="blog link" title="Every Kit Lens For An Entry-Level Camera Should Be A Nifty Fifty" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_73&ems_l=3780343&i=1&d=MTYwODgxNjQw%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_f420072a2c1b23012b70353cb91d27e2885dd6781d457c388abefaa1bcc4ebee" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<span e-editable="headline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:22px; line-height:28px; color:#28343A; margin:0; padding:0;" class="blogHeadline">Every Kit Lens For An Entry-Level Camera Should Be A Nifty Fifty</span>
+</a>
+<p e-editable="blurb" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;" class="blogText">These inexpensive primes tend to beat the pants off of those kit zoom lenses.</p>
+<a e-editable="blog link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_75&ems_l=3780343&i=1&d=MTYwODgxNjQy%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_e9b2407d300ae3386bac3834dc84a548ea16d5dc2b1d3f23e9b9b86b4e84f9de" title="Every Kit Lens For An Entry-Level Camera Should Be A Nifty Fifty" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="readmore" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#F56438; margin:11px 0 0;padding:0; text-align: left;" class="blogText">Read more ></p></a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr> <tr e-block-id="611bd0836d03806708000001">
+<td align="center" valign="middle" style="background-color:#ffffff;">
+<table class="wInner darkmode" border="0" cellpadding="0" cellspacing="0" role="presentation" dir="rtl" style="width:540px; background-color:#ffffff;">
+<!--This first row is a normal stacking two column row, with direction reversed. This allows the content to do stack on mobile - the column on the right will end up on top of the column to the left.-->
+<tr>
+<td align="center" valign="middle" style="font-size:0; padding: 0 0px;padding-top: 26px;background-color:#ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+<tr>
+<td valign="middle" style="width: 255px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="wFull" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 255px;background-color:#ffffff;">
+<tr>
+<td align="right" valign="middle" style="padding-bottom: 20px;">
+<a e-editable="blog link" title="Video Field Test : Legacy Lens | Canon 50mm f/0.95 'Dream Lens'" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_77&ems_l=3780343&i=1&d=MTYwODgxNjQ0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_f85a9d3038c3b4bb01852eb8c2097070da15760423577ff9332240eb0c5f7b5c" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<img e-editable="blogImage" class="imgFull" src="https://image.keh.com/custloads/794428135/md_607363.jpg" alt="Video Field Test : Legacy Lens | Canon 50mm f/0.95 'Dream Lens'" width="225" height="225" style="width: 225px; height: 225px;">
+</a>
+</td>
+</tr>
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td><td valign="middle" style="width:225px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="contentText" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:225px;">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 20px;" class="mobile-bottom-pad-45">
+<a e-editable="blog link" title="Video Field Test : Legacy Lens | Canon 50mm f/0.95 'Dream Lens'" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_79&ems_l=3780343&i=1&d=MTYwODgxNjQ2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_ea53dc23d8d117f9925d858030fa20c5198c33b17f092af5c6b22693516c03d5" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<span e-editable="headline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:22px; line-height:28px; color:#28343A; margin:0; padding:0;" class="blogHeadline">Legacy Lens | Canon 50mm f/0.95 Dream Lens</span>
+</a>
+<p e-editable="blurb" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;" class="blogText">Don’t limit your creativity to what’s new. See this 1961 Canon lens adapted to a Sony a7S III with dreamy results.</p>
+<a e-editable="blog link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_81&ems_l=3780343&i=1&d=MTYwODgxNjQ4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQ29udGVudA%3D%3D%7C&_esuh=_11_2ac93dd772701bc9ee679f50c60a1b7a8b08567a7765f7a8e95d6e211f00ce4b" title="Video Field Test : Legacy Lens | Canon 50mm f/0.95 'Dream Lens'" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="readmore" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#F56438; margin:11px 0 0;padding:0; text-align: left;" class="blogText">Watch it in action &gt;</p></a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr> <tr e-block-id="619558e79484ba2363000002">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 20px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="609c3a8333c2da0f0000000e">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="Shop" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_83&ems_l=3780343&i=1&d=MTYwODgxNjUw%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcA%3D%3D%7C&_esuh=_11_38d9936826fd36a7feef4d55f7d73f453446a2f3cabaada8ae45ae5840a23458" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_373135.jpg" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="inventory"></a></td>
+</tr>
+<tr e-block-id="609c3a7c33c2da0f0000000d">
+<td align="center" height="100%" valign="top" width="100%" bgcolor="#ffffff" style="padding: 50px 0 45px 0;background-color: #ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+<td align="center" valign="top" width="600">
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+<tr>
+<td align="center" valign="top" style="font-size:0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a e-editable="link1" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_85&ems_l=3780343&i=1&d=MTYwODgxNjUy%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CV2FycmFudHk%3D%7C&_esuh=_11_fa5100007be89550bc739460f5f71b11938ec422972acb694d7ea40328ce76bb" target="_blank" style="font-weight: normal; color: #ffffff; text-decoration: none;">
+<img alt="180-day warranty" src="https://image.keh.com/custloads/794428135/md_484097.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+KEH-APPROVED <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">
+180-DAY WARRANTY</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td width="15" style="font-size: 1px;">&nbsp;</td>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a e-editable="link2" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_87&ems_l=3780343&i=1&d=MTYwODgxNjU0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CQWJvdXQ%3D%7C&_esuh=_11_76a8029c4bcc2efaad03d8e6fdd8446f33c161484f25fd14e96e616e21fbe2c7" target="_blank" style="font-weight: normal; color: #ffffff; text-decoration: none;">
+<img alt="free shipping over $49" src="https://image.keh.com/custloads/794428135/md_484099.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+FREE SHIPPING ON ORDERS <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">OVER $49</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td width="15" style="font-size: 1px;">&nbsp;</td>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="color: #ffffff; font-weight: normal; text-decoration: none;">
+<img alt="call us at 1-800-DIALKEH" src="https://image.keh.com/custloads/794428135/md_488648.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+CALL A PHOTOGRAPHY EXPERT AT <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">1-800-DIALKEH</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr e-block-id="5eea72ac525fda7b59000001">
+<td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" bgcolor="#F5F5F5" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td width="10" height="40" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td align="center">
+<!--[if true]><table width="300" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="300"> <![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 285px; width: 100%;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center" valign="middle" width="45%"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_89&ems_l=3780343&i=1&d=MTYwODgxNjU2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU2hvcA%3D%3D%7C&_esuh=_11_488f00855471718cd0868784da2e13b7f92ae2638050f4f17427b74ab29e53e1" style="display: block; border: 0; outline: 0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; font-weight: normal; letter-spacing: 1.5px; line-height: 17px; text-decoration: none; text-align: center; text-transform: uppercase;" title align="center" target="_blank">SHOP</a></td>
+<td align="center" style="font-family: 'apercu', Helvetica, sans-serif; font-size:16px;letter-spacing: 1.71px;line-height:19px;text-decoration:none;color:#dfdfdf ;width:0px; text-align:center;color: #28343A">|
+</td>
+<td align="center" valign="middle" width="45%"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_91&ems_l=3780343&i=1&d=MTYwODgxNjU4%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU1lH%7C&_esuh=_11_99201703689ff32e208a66598bfb335bed75cba855060d87e6eefd5ced5ee098" style="display: block; border: 0; outline: 0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; font-weight: normal; letter-spacing: 1.5px; line-height: 17px; text-decoration: none; text-align: center; text-transform: uppercase;" title="sell" align="center" target="_blank"> SELL</a>
+</td>
+</tr>
+</table>
+<!--[if true]></td></tr></table> <![endif]-->
+</td>
+</tr>
+<tr>
+<td width="10" height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td align="center" style="padding: 0 10px;">
+<!--[if true]><table width="270" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="270"> <![endif]-->
+<!-- START social-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 270px; width: 100%;">
+<tbody>
+<tr>
+<td align="center"> <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_93&ems_l=3780343&i=1&d=MTYwODgxNjYw%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU29jaWFs%7C&_esuh=_11_52e3fe9cea0f3e7aa2ab640a05076d42f706101206b4f514ed763e4fab3bc1f1" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Facebook" border="0" src="https://image.keh.com/custloads/794428135/md_298933.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Facebook" width="24" data-mc-image-bytes="2701" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center">
+<a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_95&ems_l=3780343&i=1&d=MTYwODgxNjYy%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU29jaWFs%7C&_esuh=_11_a8c2a6b4a79e36ef1a31076a21f2d55768ab4308ee6f196a13b54f289a251b76" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Instagram" border="0" src="https://image.keh.com/custloads/794428135/md_298934.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Instagram" width="24" data-mc-image-bytes="3282" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center">
+<a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_97&ems_l=3780343&i=1&d=MTYwODgxNjY0%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU29jaWFs%7C&_esuh=_11_ce635d8f5e8d81d3267dc245c8dbfd5c2b00a8ec7d6d117a2882064c5c8698cc" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Twitter" border="0" src="https://image.keh.com/custloads/794428135/md_298935.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Twitter" width="24" data-mc-image-bytes="1891" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581207_1_99&ems_l=3780343&i=1&d=MTYwODgxNjY2%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1BQJTNBK0Nhbm9uK0VGK0Z1bGwtRnJhbWUrRW1haWwrMQ%3D%3D%7CU29jaWFs%7C&_esuh=_11_bf61fbd02410ac773d30858a3a21dab2c17c8fb020dc38a396335bab2a1452ff" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="youtube" border="0" src="https://image.keh.com/custloads/794428135/md_298936.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="youtube" width="24" data-mc-image-bytes="3282" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- END social-->
+<!--[if true]></td></tr></table> <![endif]-->
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td width="10" height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color:#28343A; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none;font-weight: normal;" align="center">Question? <a href="https://www.keh.com/shop/contact-us" style="color: #F56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" ems:notrack="true" target="_blank">
+<font color="#f56438">Contact us</font>
+</a> | <a href="https://www.keh.com/shop/privacy-policy" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" ems:notrack="true" target="_blank">
+<font color="#f56438">Privacy</font>
+</a> | <a href="https://www.keh.com/shop/terms-conditions" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" ems:notrack="true" target="_blank">
+<font color="#f56438">Terms</font>
+</a> | <a href="https://link.keh.com/u/gm.php?prm=$uid$_794428135_2581207_1&_esuh=_11_99cd5b35d5d18f3ddf631f590f7fdfb8c82dff2a55a91b45ca8508c8c1cffa21" style="color: #F56438; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; text-align: center; font-weight: normal; letter-spacing: 0.5px; text-decoration: none;" target="_blank">
+<font color="#f56438">View in browser</font>
+</a></td>
+</tr>
+<tr>
+<td width="10" height="12" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; line-height:19px; text-align: center; font-weight: normal; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; padding-left: 20px; padding-right: 20px; letter-spacing: 0.5px;" align="center"> <!--START Customer Email in <a> and <font> tags-->
+This email was sent to <a e-editable="email2l" href="mailto:kehtest@litmusemail.com" class="fc1 fwn tdn" style="font-weight: normal; text-decoration: none; color: #28343A;" target="_blank"><font e-editable="email2" class="ff fs12 fc1 fwn xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 12px; color: #28343A;">kehtest@litmusemail.com</font></a> by KEH Camera<br>5080 Highlands Pkwy SE, Suite B, Smyrna, GA 30082
+<!--END Customer Email-->
+<br>Need a break? <a href="https://link.keh.com/u/un.php?par=$uid$_2581207_1_$sid$&_esuh=_11_5d47a28761461e63e422677a41087cb76d70d7f4b210b74b754d45bc79e35682" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" target="_blank">
+<font color="#f56438">Unsubscribe</font>
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="30" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color:#28343A !important; font-size:10px; letter-spacing: 0px; line-height:14px; font-family: 'apercu', Helvetica, sans-serif;font-weight:normal;" align="center"><span>Please do not reply to this email as this account is
+automated and not monitored.
+</span></td>
+</tr>
+<tr>
+<td width="10" height="50" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--[if mso]>
+</table>
+</td>
+</tr>
+</center>
+<![endif]-->
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img src="https://link.keh.com/mo/$uid$_794428135_2581207_1_3780343.gif" height="2" width="2" border="0" alt=""></body>
+</html>
