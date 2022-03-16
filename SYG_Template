@@ -1,0 +1,1053 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<title>KEH Camera</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1, user-scalable=yes">
+<style> @media screen {
+@font-face {
+font-family: 'Apercu';
+src: url('https://image.keh.com/custloads/794428135/md_262452.woff2') format('woff2'),
+url('https://image.keh.com/custloads/794428135/md_262451.woff') format('woff'),
+url('https://image.keh.com/custloads/794428135/md_262450.ttf') format('truetype');
+font-weight: 400;
+font-style: normal;
+mso-font-alt: 'Helvetica';
+}
+@font-face {
+font-family: 'portrait';
+src: url('https://image.keh.com/custloads/794428135/md_287789.otf') format('opentype'),
+url('https://image.keh.com/custloads/794428135/md_287790.otf') format('opentype'),
+font-weight: 600;
+font-style: normal;
+mso-font-alt: 'Helvetica';
+}
+} </style>
+<!--[if !mso]><!--><meta http-equiv="X-UA-Compatible" content="IE=edge"><!--<![endif]-->
+<!--[if (gte mso 9)]>
+<style type="text/css">
+table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border:0;}
+table td, table th {border-collapse:collapse; font-size:1px; line-height:1px;}
+.inpl-not-mailing table {border-collapse:separate;}
+.lh {line-height:100% !important;}
+.inpl-not-mailing .lh, .inpl-not-mailing .lh font {line-height:1.2 !important;}
+.lh15p {line-height:125% !important;}
+.inpl-not-mailing .lh15p, .inpl-not-mailing .lh15p font {line-height:1.5 !important;}
+.lh20p {line-height:167% !important;}
+.inpl-not-mailing .lh20p, .inpl-not-mailing .lh20p font {line-height:2 !important;}
+</style>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+<style type="text/css">
+.ol600 {width:600px;}
+.ol610 {width:600px;}
+.olcta {padding:0 !important; background-color:none !important; background-image:none !important; background:none !important; border:none !important; -moz-border-radius:0 !important; -webkit-border-radius:0 !important; border-radius:0 !important;}
+.oltd1 {padding:13px 0; line-height:normal !important;}
+.oltd12 {padding:9px 0; line-height:normal !important;}
+.inpl-not-mailing .cta1a {color:#ffffff !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:13px 0 !important;}
+.ctaBuyers {color:#F56438 !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:13px 0 !important;}
+.inpl-not-mailing .cta1a2 {color:#ffffff !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:9px 0 !important;}
+.inpl-not-mailing .oltd1 {padding:0 !important; line-height:normal !important;}
+.inpl-not-mailing .oltd12 {padding:0 !important; line-height:normal !important;}
+</style>
+<![endif]-->
+<style>
+#body #nobluelinks a[x-apple-data-detectors]{
+color: inherit !important;
+text-decoration: inherit !important;
+}
+
+.disabled {
+pointer-events: none;
+cursor: default;
+}
+.ff {font-family:'apercu', Helvetica, sans-serif;}
+.lh, .lh font {line-height:1.2;}
+.fwn{font-weight:normal;}
+.fwb{font-weight:bold;}
+.tdn{text-decoration:none;}
+.fs9{font-size:9px;}
+.fs10{font-size:10px;}
+.fs11{font-size:11px;}
+.fs12{font-size:12px;}
+.fs14{font-size:14px;}
+.fs16{font-size:16px;}
+.fs20{font-size:20px;}
+.fc1{color:#28343A;}
+.fc2{color:#ffffff;}
+.fc3{color:#f56438;}
+.vat{vertical-align:top;}
+.vam{vertical-align:middle;}
+.vab{vertical-align:bottom;}
+h2 {font-size:26px !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+@media only screen and (max-width:414px) {
+.topPad25 {padding-top:25px !important;} 
+.padBot20 {padding-bottom:20px !important;}
+.stackerBulletHeadline {font-size: 28px !important;line-height:130% !important;padding-bottom:10px !important;padding-top:0px !important;text-transform: capitalize !important;}
+.stacker-text-container {width:80% !important;max-width:80%;}
+.padBot15 {padding-bottom:15px !important;}
+.padBot20 {padding-bottom:20px !important;}
+.stacker-border {border-bottom:1 #F5F5F5 solid !important;}
+.padTop0 {padding-top:0px !important;}
+.pad0 {padding:0px !important;}
+.bulletImg {width:90px !important;height:90px !important;text-align: center !important;}
+.mobile-bullet-text-width {width:350px;max-width:350px;}
+.mobile-bottom-pad-45 {padding-bottom: 45px !important;}
+.bulletText {text-align: center !important;font-size:20px !important;}
+
+.bulletImg150 {width:150px !important;height:150px !important;text-align: center !important;}
+
+.em_wrapper_50_1 {width: 45% !important;margin: 6px 6px !important;}
+.em_h40 {height: 40px !important;}
+.em_side24 {width: 24px !important;}
+.em_h70 {height: 70px !important;}
+
+.fw-margin-10 {margin: 0 10px!important; width:100% !important; min-width:0 !important;}
+.contentCaption {font-size:10px !important;font-style: italic !important;color:#516169 !important;}
+h1[class="date_fix"] {
+font-size: 24px !important;
+padding-bottom: 20px !important;
+}
+td[class="no_dis"] {
+display: none;
+}
+table[class="mobile_width"] {
+width: 320px !important;
+}
+table[class="mobile_button"] {
+display: block !important;
+width: 320px !important;
+max-height: 82px !important;
+overflow: visible !important;
+float: none !important;
+}
+td[class="gmailfix"] {
+display: block !important;
+width: 320px !important;
+max-height: 82px !important;
+overflow: visible !important;
+float: none !important;
+padding-bottom: 15px !important;
+}
+td[class="show_button"] {
+height: 45px !important;
+}
+.catTitle2 {font-size:22px !important;} 
+.catMobile2 {width:290px !important;height:auto!important;} 
+.mobileBotPad20 {padding-bottom:20px !important;} 
+.fullCat {width: 100% !important;height: auto !important;} 
+.imgFull {width:295px !important;height:auto !important;} 
+.img295 {width:295px !important;height:auto !important;}
+.giftcard {width:200px !important;max-width:100% !important;height:200px !important;display:block !important;}
+.giftcardContainer {width:100% !important;max-width:100% !important;height:auto !important;display:block !important;}
+.vat-mobile {vertical-align:top !important;}
+.contentText {width:84% !important;}
+.mobile9 {font-size: 9px !important;}
+.mobile10 {font-size: 10px !important;}
+.mobile12 {font-size: 12px !important;}
+.mobile15 {font-size: 15px !important;}
+.mobile-font-16 {font-size: 16px !important;}
+.mobile-font-18 {font-size: 18px !important;}
+.mobile-font-18-lh145 {font-size: 18px !important;line-height:145% !important;}
+.mobile-font-20 {font-size: 20px !important;}
+.mobile-font-22 {font-size: 22px !important;line-height:23px !important;}
+.mobile-font-24 {font-size: 24px !important;}
+.mobile-font-26 {font-size: 26px !important;}
+.blogHeadline {font-size: 28px !important;line-height:125% !important;} 
+.blogText {font-size: 20px !important;line-height:130% !important;}
+.centerText {text-align: center !important;}
+.lh135 {line-height:135% !important;}
+.wInner { width: 90% !important; }
+.mobile-width-65px {width:65px!important;max-width:65px !important;height:62px !important;} 
+.mobile-width-50px {width:50px!important;max-width:50px !important;height:50px !important;} 
+.mobile-top-pad-30 {padding-top:30px;} 
+.timerImage {width: 250px !important;max-width:60% !important;}
+.headerLogo {width: 100px !important;max-width: 100px !important; }
+.rw15 {width: 15px !important;}
+.catTitle {font-size:13px !important}
+.hide-mobile {display:none !important;}
+.full {display:block !important; width:100% !important;}
+.halfWidth {width:50% !important; min-width:0 !important;}
+.fw {width:100% !important; min-width:0 !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+.image {width:100% !important; height:auto !important;}
+.gf { font-size:17px !important; font-size:4.72vw !important; }
+h2 {font-size:25px !important;}
+.mainHeadline {font-size: 34px !important;}
+.bigHeadline {font-size: 38px !important}
+.xsmall {font-size:13px !important; font-size:3.61vw !important;}
+.rw10 {width: 10px !important;}
+.rh10, .rh10 div {height:10px !important; height:2.78vw !important;}
+.height5, .height5 div {height:5px !important; height:1.39vw !important;}
+u + .body .gwfw { width:100% !important; width:100vw !important;}
+.fs12{font-size:3.33vw!important;}
+.fs14{font-size:3.88vw!important;}
+.fs16{font-size:4.44vw!important;}
+.fs20{font-size:5.55vw!important;}
+.pr4{padding-right: 4px!important;}
+.halfwidth {width: 50%!important;}
+.floatleft {float: left!important;}
+.ctaMobile {font-size:22px !important;padding:18px 40px !important;}
+}
+@media only screen and (width:375px) {
+.padSides8 {padding:0 8px 0 7px !important;}
+h2 {font-size:25px !important;}
+.ff {font-family:'apercu', Helvetica, sans-serif;}
+.mainHeadline {font-size: 34px !important;}
+.mobile-font-18 {font-size: 18px !important;}
+}
+<!--
+body {margin:0; padding:0; background:#f5f5f5; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+a, a:active, a:visited, .yshortcuts, .yshortcuts span a {text-decoration:none; font-weight:normal; color:#ffffff;}
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+[office365] td div, [office365] button {display:block !important;}
+table th {padding:0; Margin:0; border:0; font-weight:normal; vertical-align:top;}
+-->
+
+@media only screen and (max-width:360px) {
+.h2 {font-size:19px !important;}
+h2 {font-size:25px !important;}
+}
+</style>
+</head>
+<body id="body" class="body" width="600" align="center" bgcolor="#F5F5F5" style="background-color: #F5F5F5;"><div ems:preheader style="display:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all">Now get 10% more value when you trade up.</div>
+<!--[if mso]>
+<style type="text/css">
+body, table, td {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" bgcolor="#f5f5f5" class="gwfw">
+<tr>
+<td width="100%" align="center" valign="top" bgcolor="#F5F5F5" style="background-color: #F5F5F5;">
+<table id="nobluelinks" class="fw" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#F5F5F5" style="max-width: 600px; background-color: #F5F5F5;">
+<tr>
+<td style="padding:0 0px;" class="padSides8">
+<table style="max-width:600px;background-color: #F5F5F5;" cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#f5f5f5" class="ol600 fw">
+<!--[if mso]>
+<center>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<![endif]-->
+<tr e-block-id="5f8e050236ab267e34000007">
+<td>
+<!--[if mso]>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tr><td>
+<![endif]-->
+<table align="center" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" style="width:100%;background-color:#28343a;max-width:600px;"> <tr>
+<td colspan="4" height="10" class="rw10"><div></div></td>
+</tr>
+<tr>
+<td width="10" class="rw10"></td>
+<td align="left">
+<table cellspacing="0" cellpadding="0" border="0"> <!--[if mso]>
+<style type="text/css">
+body, table, td, span {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center"><a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #ffffff;"><img src="https://image.keh.com/custloads/794428135/md_395547.png" width="14" border="0" style="display: block; width: 14px;" alt="KEH Phone Number"></a></td>
+<td width="5" class="rw10"></td>
+<td align="left" class="lh vam" valign="middle" style="line-height: 1.2; vertical-align: middle;"><font class="ff fs12 xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #ffffff; line-height: 1.2;"><span class="la1b xsmall"><a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #ffffff;">1-800-DIALKEH</a></span></font></td>
+</tr>
+</table>
+</td>
+<td align="right" class="vam" valign="middle" style="vertical-align: middle;">
+<table cellspacing="0" cellpadding="0" border="0" class="fw">
+<tr>
+<td align="center" class="lh" style="line-height: 1.2;"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_1&ems_l=3780717&i=1&d=MTYwOTA3NjUz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU2hvcA%3D%3D%7C&_esuh=_11_0d3865f2de1229a3e5177476cc3ad5f9687632f46e2247ee0f7599dca04e5a9b" target="_blank" class="tdn" title="Free shipping" style="font-weight: normal; text-decoration: none; color: #ffffff;"><font class="lh ff fs14 xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; color: #ffffff; line-height: 1.2;"><span e-editable="copy" class="xsmall">Free shipping on orders $49+</span></font></a></td>
+</tr>
+</table>
+</td>
+<td width="15" class="rw10"></td>
+</tr>
+<tr>
+<td colspan="4" height="10" class="rh10"><div></div></td>
+</tr>
+</table>
+</td>
+</tr><tr e-block-id="5f99afe4cdaef23ba2000001">
+<td height="35" align="center" valign="middle" class="vam" style="vertical-align: middle;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="background-color: #f5f5f5;">
+<tr>
+<td align="center" valign="top" width="600">
+<![endif]-->
+<table cellspacing="0" cellpadding="0" border="0" style="background-color: #f5f5f5;"> <!--[if mso]>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center" height="100"><a title="KEH" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_3&ems_l=3780717&i=1&d=MTYwOTA3NjU1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU2hvcA%3D%3D%7C&_esuh=_11_6ff0bede50a40f477becb35b85d808d0a11c0e86656c95d2438701e5057537b7" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img class="headerLogo" alt="KEH Camera Logo" e-editable="logo" src="https://image.keh.com/custloads/794428135/md_379346.png" width="120" height="auto" border="0" style="max-width:120px;"></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink1" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_5&ems_l=3780717&i=1&d=MTYwOTA3NjU3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU2hvcA%3D%3D%7C&_esuh=_11_b3e5652344e955570145773fdde69bc52aa90c0cff6ee52512cbaa71b8d4f701" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav1" class="mobile9 ff xsmall">SHOP</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink2" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_7&ems_l=3780717&i=1&d=MTYwOTA3NjU5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_d8877a6b146058df23f71c29935b1571b2412c9648a62d7d9d0dcd01cf62596d" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav2" class="mobile9 ff xsmall">SELL</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink3" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_9&ems_l=3780717&i=1&d=MTYwOTA3NjYx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CUmVwYWly%7C&_esuh=_11_33c0b058038501a782fec19449e1b634eb679bcef70c8c1f9934584879d11169" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav3" class="mobile9 ff xsmall">REPAIR</span></font></a></td>
+<td width="30" class="rw15"></td>
+<td align="center" class="lh" style="line-height: 1.2;"><a e-editable="navlink4" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_11&ems_l=3780717&i=1&d=MTYwOTA3NjYz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGVudA%3D%3D%7C&_esuh=_11_1babe091c346535fe599dcd5485a95dc6610f17cef31e880686333080e8d1347" target="_blank" class="ff fc1 fwb tdn mobile9" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; font-size: 16px; text-decoration: none; color: #28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-family: 'apercu', Helvetica, sans-serif; line-height: 1.2; font-size: 16px; text-decoration: none; color: #28343a;"><span style="font-size: 16px; color: 28343A; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" e-editable="nav4" class="mobile9 ff xsmall">BLOG</span></font></a></td>
+<td width="30" class="rw15"></td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr e-block-id="5f90559110653765d0000002">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="Sell Your Gear" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_13&ems_l=3780717&i=1&d=MTYwOTA3NjY1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_d1e268d3d3121848a86ca706ca8d013bcfd96539f0c70f44020a8942f86266e5" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_546730.jpg" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="Sell Your Gear"></a></td>
+</tr>
+<tr e-block-id="6054bc84ee9135c28b000002">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 7px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 1px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="5f8d9be2fdddcdf503000002">
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600px" style="background-color:#ffffff;width:600px;">
+<tr>
+<td align="center" valign="top" width="600px" style="width:600px;">
+<![endif]-->
+<table class="fw" border="0" cellpadding="0" cellspacing="0" width="600px" style="max-width:600px;background-color:#ffffff;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="fw" align="center" border="0" cellpadding="0" cellspacing="0" width="600px" style="background-color:#ffffff;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, p {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td style="background-color:#ffffff;" class="hide-mobile" width="25"></td>
+<td valign="top" style="padding-left:15px; padding-right:15px; padding-top:10px; text-align:left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;background-color:#ffffff;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, p {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<p e-editable="copy" style="color: #28343a;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:15px;padding-left:15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 135%;">We love to create. Few things are as inspirational as chasing down that idea in your head and being able to bring it to life with the right skills and tools. <br><br>If your next vision calls for an equipment upgrade, perhaps it’s time to part with your used gear to give yourself a boost in the right direction. We’ll even give you <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_15&ems_l=3780717&i=1&d=MTYwOTA3NjY3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_4c584fe85ab0cccf9a758797aeb47e570341e4b8238c55a93ce4982cf44c8fc6" title="trade" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><span style="color: #f56438;">5-10% more</span></a> if you plan on making a purchase.</p>
+</td>
+<td class="hide-mobile" width="25" style="background-color:#ffffff;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 9]>
+</td></tr></table>
+<![endif]-->
+</td>
+</tr> <tr e-block-id="6054be15ee9135c28b000005">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><!-- START image bullet block -->
+<tr e-block-id="601b005b2b7466c044000001">
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px!important;">
+<tr>
+<td>
+<table width="85%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;padding-top:15px !important;padding-bottom:15px !important;">
+<tr>
+<td>
+<table class="mobile-width-100" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+<tr>
+<td width="30%" style="max-width:135px;padding-right:21px;vertical-align:top;">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_17&ems_l=3780717&i=1&d=MTYwOTA3NjY5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_8a03263f76bdda76e91009e2c8dba8fccfa3c42ff1d55decf4adf00068c4c056" style="text-decoration: none; font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important;" target="_blank">
+<img src="https://image.keh.com/custloads/794428135/md_376752.png" e-editable="image" width="80" height="77" class="mobile-width-70px" align="right" style="max-width: 80px; width: 80px; height: 77px;" alt="Get your instant quote">
+</a>
+</td>
+<!-- END image , START text -->
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h5, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td width="70%">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_19&ems_l=3780717&i=1&d=MTYwOTA3Njcx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_a47fa33af4d4774c0614898379754fdc9079b24bd52ba546dad65bfa848c41b9" style="font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" target="_blank">
+<p e-editable="headline" style="max-width 364px; color: #f56438;font-size: 20px;font-weight:bold;text-align: left;margin: 10px 0 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">
+<span style="font-family: 'apercu',Helvetica, sans-serif !important;">
+TRADE YOUR GEAR
+</span>
+</p>
+</a>
+<p e-editable="body copy" class="mobile-font-18-lh145" style="max-width 364px; color: #28343A;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">Our online quote wizard gives you an estimate as fast as you can click.</p>
+</td>
+</tr>
+</table> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</table>	</tr>
+</td>
+<![endif]-->
+</td>
+</tr>
+<!-- END image bullet block --> <tr e-block-id="610c2515d0ac0e7e62000001">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 5px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 1px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><!-- START image bullet block -->
+<tr e-block-id="602d3f07fc0f8ecc7b000004">
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px!important;">
+<tr>
+<td>
+<table width="85%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;padding-top:15px !important;padding-bottom:15px !important;">
+<tr>
+<td>
+<table class="mobile-width-100" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+<tr>
+<td width="30%" style="max-width:135px;padding-right:21px;vertical-align:top;">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_21&ems_l=3780717&i=1&d=MTYwOTA3Njcz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_e282ff91264cd949b860706ac0a2292eb868fc28b6a7bde154b844a948fa1c00" style="text-decoration: none; font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important;" target="_blank">
+<img src="https://image.keh.com/custloads/794428135/md_477181.png" e-editable="image" width="80" height="77" class="mobile-width-70px" align="right" style="max-width: 80px; width: 80px; height: 77px;" alt="Book a virtual 1-on-1 session">
+</a>
+</td>
+<!-- END image , START text -->
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h5, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td width="70%">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_23&ems_l=3780717&i=1&d=MTYwOTA3Njc1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_4a2c33bdd681814707af279a7c65bb60a1c964b7f13a8df52627a35a2a8b3e28" style="font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" target="_blank">
+<p e-editable="headline" style="max-width 364px; color: #f56438;font-size: 20px;font-weight:bold;text-align: left;margin: 10px 0 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">
+<span style="font-family: 'apercu',Helvetica, sans-serif !important;">
+TRADE YOUR GEAR
+</span>
+</p>
+</a>
+<p e-editable="body copy" class="mobile-font-18-lh145" style="max-width 364px; color: #28343A;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">Trade in your old gear and apply your payment toward an immediate purchase. If you need more time, opt for a KEH Gift Card for a 5% bonus.</p>
+</td>
+</tr>
+</table> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</table>	</tr>
+</td>
+<![endif]-->
+</td>
+</tr>
+<!-- END image bullet block --> <tr e-block-id="610c2517d0ac0e7e62000002">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 5px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 1px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><!-- START image bullet block -->
+<tr e-block-id="6070913fec1244150d000003">
+<td>
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px!important;">
+<tr>
+<td>
+<table width="85%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;padding-top:15px !important;padding-bottom:15px !important;">
+<tr>
+<td>
+<table class="mobile-width-100" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+<tr>
+<td width="30%" style="max-width:135px;padding-right:21px;vertical-align:top;">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_25&ems_l=3780717&i=1&d=MTYwOTA3Njc3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_2d3f74b67903eb0fd67e90676521332982430f7ce59f8cba11ef97d2846c103f" style="text-decoration: none; font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important;" target="_blank">
+<img src="https://image.keh.com/custloads/794428135/md_389205.png" e-editable="image" width="80" height="77" class="mobile-width-70px" align="right" style="max-width: 80px; width: 80px; height: 77px;" alt="Book a virtual 1-on-1 session">
+</a>
+</td>
+<!-- END image , START text -->
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h5, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td width="70%">
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_27&ems_l=3780717&i=1&d=MTYwOTA3Njc5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_f5899d80bc755bc8df730cfedfb0b8397441be796fc78295c1b0fbab51f337f0" style="font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif !important; text-decoration: none !important;" target="_blank">
+<p e-editable="headline" style="max-width 364px; color: #f56438;font-size: 20px;font-weight:bold;text-align: left;margin: 10px 0 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">
+<span style="font-family: 'apercu',Helvetica, sans-serif !important;">
+TRADE YOUR GEAR
+</span>
+</p>
+</a>
+<p e-editable="body copy" class="mobile-font-18-lh145" style="max-width 364px; color: #28343A;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif !important;line-height: 155%;">Show one of our expert buyers exactly what you’re selling via live video chat.</p>
+</td>
+</tr>
+</table> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if gte mso 9]>
+</table>	</tr>
+</td>
+<![endif]-->
+</td>
+</tr>
+<!-- END image bullet block --> <tr e-block-id="610c2519d0ac0e7e62000003">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 5px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 1px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr> <!-- START express checkout -->
+<tr e-block-id="6054bb379c63d87d19000004">
+<td>
+<table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px!important;">
+<tr>
+<td>
+<table width="85%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+<tr>
+<td>
+<table class="mobile-width-100" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+<tr>
+<td>
+<a e-editable="image link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_29&ems_l=3780717&i=1&d=MTYwOTA3Njgx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_6fa9edf1acd91fa36e017f4536b3b9e1cad1968d2fe7fefcde908d4b9d8005a7" style="text-decoration: none; font-weight: normal; color: #f56438; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif;" title="Give us a call" target="_blank">
+<img src="https://image.keh.com/custloads/794428135/md_389025.png" e-editable="image" width="80" height="77" class="mobile-width-70px" align="right" style="max-width: 80px; width: 80px; height: 77px;" alt="Give us a call">
+</a>
+</td>
+<td width="20px" class="mobile-width-18">
+</td>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h5, span, p, a {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td width="70%">
+<a e-editable="headline link" ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="text-decoration: none; color: #f56438; font-size: 20px; font-weight: bold; text-align: left; margin: 0px 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-family: 'apercu', Helvetica, sans-serif;">
+<h5 e-editable="headline copy" class="mobile-font-22" style="max-width 450px; color: #f56438;font-size: 20px;font-weight:bold;text-align: left;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">Give us a call
+</h5>
+</a>
+<p e-editable="body copy" class="mobile-font-20" style="max-width 450px; color: #28343A;font-size: 16px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">Dial <a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #f56438;">1-800-DIALKEH</a> and talk to a real person who can help.&nbsp;</p>
+</td>
+</tr>
+</table> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- END checkout --> <tr e-block-id="601efae63908e4edeb000004">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 13px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><!-- Start Button-->
+<tr e-block-id="602d4b03c43ff10e43000003">
+<td style="background-color:#ffffff;">
+<!--[if gte mso 9]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;background-color:#ffffff;">
+<tr>
+<td align="center" valign="top" width="600" style="width:600px;">
+<![endif]-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-collapse: collapse;-webkit-text-size-adjust: 100%;background-color:#ffffff;">
+<tr>
+<td align="center" valign="top" style="padding:20px 0;">
+<!--CTA-->
+<a e-editable="link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_31&ems_l=3780717&i=1&d=MTYwOTA3Njgz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_4060e3dc456274605090e3f8e7da09d86c17dda360f6b76c0d193164574a7d2b" class="cta" style="background-color: #F56438; font-size: 18px; font-family: 'apercu', Helvetica, sans-serif; font-weight: bold; text-decoration: none; padding: 12px 30px; color: #ffffff; display: inline-block; mso-padding-alt: 0;" target="_blank"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt">&nbsp;</i><![endif]--><span e-editable="text" style="mso-text-raise:15pt;">SELL YOUR GEAR</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]--></a>
+</td>
+</tr>
+</table>
+</td>
+</tr> <tr e-block-id="6054e6f92a393dccfa000003">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="6054e5422a393dccfa000001">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<img e-editable="img" src="https://image.keh.com/custloads/794428135/md_464615.png" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt></td>
+</tr>
+<tr e-block-id="6054e7742a393dccfa000004">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="601b02652b7466c04400000a">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="Testimonials" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_33&ems_l=3780717&i=1&d=MTYwOTA3Njg1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CVGVzdGltb25pYWw%3D%7C&_esuh=_11_adfa417d5eea73ba5426cdcee017fcd38bc2af9ea75deb310a4f8de7a1595522" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_510231.jpg" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="Testimonial"></a></td>
+</tr>
+<tr e-block-id="602d4adbc43ff10e43000001">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="5f9047f49e1a67e241000001">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="KEH Blog" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_35&ems_l=3780717&i=1&d=MTYwOTA3Njg3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGVudA%3D%3D%7C&_esuh=_11_6c793072595a3c72250c83764722cb62ae4a3864b57cde98c89915878d54479c" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_374155.png" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="KEH Blog"></a></td>
+</tr>
+<tr e-block-id="6054b6bc9c63d87d19000003">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr> <tr e-block-id="6054b6b39c63d87d19000001">
+<td align="center" valign="middle" style="background-color:#ffffff;">
+<table class="wInner darkmode" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:540px; background-color:#ffffff;">
+<!--This first row is a normal stacking two column row. This allows the content to do stack on mobile - the column on the left will end up on top of the column to the right.-->
+<tr>
+<td align="center" valign="middle" style="font-size:0; padding: 0px 30px;padding-top: 30px;background-color:#ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+<tr>
+<td valign="middle" style="width: 255px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="wFull" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 255px;background-color:#ffffff;">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" style="padding-bottom: 30px;">
+<a e-editable="blog link" title="image link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_37&ems_l=3780717&i=1&d=MTYwOTA3Njg5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGVudA%3D%3D%7C&_esuh=_11_1b67048ba69b90924d9e2df33438e12eea7f25a9c38c0efb7f866f0f152ceaf1" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<img e-editable="blogImage" class="imgFull" src="https://image.keh.com/custloads/794428135/md_464415.jpeg" alt="Selling Your Gear to KEH" width="225" height="225" style="width: 225px; height: 225px;">
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td><td valign="middle" style="width:225px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="wFull" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:225px;">
+<tr>
+<td align="left" valign="middle" style="padding-bottom: 70px;">
+<a e-editable="blog link" title="headline link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_39&ems_l=3780717&i=1&d=MTYwOTA3Njkx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGVudA%3D%3D%7C&_esuh=_11_a272a8c4e86acb95ac8b9997376f891e4324b73d5b32d85a1002d58bff54d360" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<h3 e-editable="headline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:22px; line-height:28px; color:#28343A; margin:0; padding:0;">Selling Your Gear to KEH</h3>
+</a>
+<p e-editable="blurb" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0; text-align: left;">This quick primer is all you need to answer your questions about offloading your own gear.</p>
+<a e-editable="blog link" title="read more" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_41&ems_l=3780717&i=1&d=MTYwOTA3Njkz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGVudA%3D%3D%7C&_esuh=_11_760690127625e73ef197a6a1f0e69498ccdad6fb0d39ed02af352c583fad2e83" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="readmore" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#F56438; margin:11px 0 0;padding:0; text-align: left;"><a e-editable="read link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_43&ems_l=3780717&i=1&d=MTYwOTA3Njk1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7C%7C&_esuh=_11_6a795223edde17963ba9db191f17b60ce5506edb873ee082f196c733a357720a" target="_blank" style="font-weight: normal; color: #f56438; text-decoration: none; outline: none;" e-block-id="6054b6b39c63d87d19000001" rel="noopener" title="Selling Your Gear to KEH">Read more &gt;</a></p></a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr> <tr e-block-id="602d4ae3c43ff10e43000002">
+<td style="background-color:#ffffff;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="background-color:#ffffff;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody class="mcnDividerBlockOuter">
+<tr>
+<td class="mcnDividerBlockInner" style="padding: 10px 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="border-top-width: 0px;border-top-style: solid;border-top-color: #FFFFFF;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<tbody>
+<tr>
+<td style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr e-block-id="5fe2153b7cfd09fab9000001">
+<td align="center" width="100%" style="background-color:#ffffff;max-width:600px;">
+<a title="Celebrate black photographers" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_45&ems_l=3780717&i=1&d=MTYwOTA3Njk3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_01247b09b9ca73ad0167ba8cab7864bfa8335975191a79c152648a566c982e7a" style="text-decoration: none; font-weight: normal; color: #ffffff;" target="_blank"><img e-editable="img" src="https://image.keh.com/custloads/794428135/md_404199.jpg" width="600" class="image fw" border="0" style="display: block; max-width: 600px; width: 600px;" alt="Celebrate black photographers"></a></td>
+</tr>
+<tr e-block-id="610c2582d0ac0e7e62000004">
+<td align="center" height="100%" valign="top" width="100%" bgcolor="#ffffff" style="padding: 50px 0 45px 0;background-color: #ffffff;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+<td align="center" valign="top" width="600">
+<![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+<tr>
+<td align="center" valign="top" style="font-size:0;">
+<!--[if (gte mso 9)|(IE)]>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+<tr>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a e-editable="link1" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_47&ems_l=3780717&i=1&d=MTYwOTA3Njk5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CV2FycmFudHk%3D%7C&_esuh=_11_961f01409693d4dd5438f4600130214094b20c06ec3d7964f756f21645004cf5" target="_blank" style="font-weight: normal; color: #ffffff; text-decoration: none;">
+<img alt="180-day warranty" src="https://image.keh.com/custloads/794428135/md_484097.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+KEH-APPROVED <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">
+180-DAY WARRANTY</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td width="15" style="font-size: 1px;">&nbsp;</td>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a e-editable="link2" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_49&ems_l=3780717&i=1&d=MTYwOTA3NzAx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQWJvdXQ%3D%7C&_esuh=_11_2edf11ec33075d848d20dbb144ec62bc3455dccd5ee9f9bcf92492220e1a45e5" target="_blank" style="font-weight: normal; color: #ffffff; text-decoration: none;">
+<img alt="free shipping over $49" src="https://image.keh.com/custloads/794428135/md_484099.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+FREE SHIPPING ON ORDERS <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">OVER $49</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+<td width="15" style="font-size: 1px;">&nbsp;</td>
+<td align="left" valign="top" width="190">
+<![endif]-->
+<div style="display:inline-block; max-width:33.3333%; min-width:190px; vertical-align:top; width:100%;" class="mobile-wrapper">
+<table class="floatNone" align="right" border="0" cellpadding="15" cellspacing="0" width="100%" style="max-width:190px; float: left;">
+<tr>
+<td align="center" valign="top" style="font-family: 'apercu', Helvetica, sans-serif; padding-top: 13px;">
+<a ems:notrack="true" e:do-not-track="true" href="tel:18003425534" target="_blank" rel="noopener" style="color: #ffffff; font-weight: normal; text-decoration: none;">
+<img alt="call us at 1-800-DIALKEH" src="https://image.keh.com/custloads/794428135/md_488648.png" width="70" height="70" border="0" style="display: block;">
+<p style="font-family: 'apercu', Helvetica, sans-serif; color: #28343a; font-size: 11px; line-height: 20px;" class="ff mobile-font-16">
+CALL A PHOTOGRAPHY EXPERT AT <span class="ff mobile-font-16" style="font-family: 'apercu', Helvetica, sans-serif; white-space: nowrap; color: #28343a; font-size: 11px; line-height: 20px;">1-800-DIALKEH</span>
+</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+<tr e-block-id="5eea72ac525fda7b59000001">
+<td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" bgcolor="#F5F5F5" align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td width="10" height="40" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td align="center">
+<!--[if true]><table width="300" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="300"> <![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 285px; width: 100%;">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tr>
+<td align="center" valign="middle" width="45%"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_51&ems_l=3780717&i=1&d=MTYwOTA3NzAz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU2hvcA%3D%3D%7C&_esuh=_11_0ed1a333df2d9b477113719b35fe99d8aed45d2e03a227d19b91f41ec36b49a6" style="display: block; border: 0; outline: 0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; font-weight: normal; letter-spacing: 1.5px; line-height: 17px; text-decoration: none; text-align: center; text-transform: uppercase;" title align="center" target="_blank">SHOP</a></td>
+<td align="center" style="font-family: 'apercu', Helvetica, sans-serif; font-size:16px;letter-spacing: 1.71px;line-height:19px;text-decoration:none;color:#dfdfdf ;width:0px; text-align:center;color: #28343A">|
+</td>
+<td align="center" valign="middle" width="45%"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_53&ems_l=3780717&i=1&d=MTYwOTA3NzA1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU1lH%7C&_esuh=_11_b5ea8d05bf3a30c7ed4c8a7a93c8a2be99adedb6b180446685a3946d5cdea113" style="display: block; border: 0; outline: 0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; font-weight: normal; letter-spacing: 1.5px; line-height: 17px; text-decoration: none; text-align: center; text-transform: uppercase;" title="sell" align="center" target="_blank"> SELL</a>
+</td>
+</tr>
+</table>
+<!--[if true]></td></tr></table> <![endif]-->
+</td>
+</tr>
+<tr>
+<td width="10" height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td align="center" style="padding: 0 10px;">
+<!--[if true]><table width="270" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="270"> <![endif]-->
+<!-- START social-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 270px; width: 100%;">
+<tbody>
+<tr>
+<td align="center"> <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_55&ems_l=3780717&i=1&d=MTYwOTA3NzA3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU29jaWFs%7C&_esuh=_11_d0550c5db0883b74aa9e2c3c920fb6309a11fcbe34249f25f651696b3e9c99b4" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Facebook" border="0" src="https://image.keh.com/custloads/794428135/md_298933.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Facebook" width="24" data-mc-image-bytes="2701" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center">
+<a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_57&ems_l=3780717&i=1&d=MTYwOTA3NzA5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU29jaWFs%7C&_esuh=_11_364a82e36675318c1a8ba9e64c9295a037bd3b353a1e40ac49a3c69de7cac6dc" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Instagram" border="0" src="https://image.keh.com/custloads/794428135/md_298934.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Instagram" width="24" data-mc-image-bytes="3282" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center">
+<a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_59&ems_l=3780717&i=1&d=MTYwOTA3NzEx%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU29jaWFs%7C&_esuh=_11_13ddbd3896bfc75076d9814a69bc77c08fcd5ad65fb3d9a66eec9969f8f076ec" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="Twitter" border="0" src="https://image.keh.com/custloads/794428135/md_298935.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Twitter" width="24" data-mc-image-bytes="1891" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+<td align="center"><a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_61&ems_l=3780717&i=1&d=MTYwOTA3NzEz%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CU29jaWFs%7C&_esuh=_11_bdab60b69ae326ce5088ce7ad867ce279174fcf88c3c8318321b1b4d98e63899" style="font-weight: normal; color: #ffffff; text-decoration: none; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 50; vertical-align: middle; display: block;" target="_blank"> <img alt="youtube" border="0" src="https://image.keh.com/custloads/794428135/md_298936.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="youtube" width="24" data-mc-image-bytes="3282" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48"> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- END social-->
+<!--[if true]></td></tr></table> <![endif]-->
+</td>
+</tr>
+<tr>
+<td align="center" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<tbody>
+<tr>
+<td width="10" height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color:#28343A; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none;font-weight: normal;" align="center">Question? <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_63&ems_l=3780717&i=1&d=MTYwOTA3NzE1%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CQ29udGFjdA%3D%3D%7C&_esuh=_11_c88d0f90943c81579e9ab1e900843e9c91a6c337981598041559a4796a452da7" style="color: #F56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" target="_blank">
+<font color="#f56438">Contact us</font>
+</a> | <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_65&ems_l=3780717&i=1&d=MTYwOTA3NzE3%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CVGVybXMrJTI2K0NvbmRpdGlvbnM%3D%7C&_esuh=_11_6826b24f0e139969bf226d44602a9efe154b532a934f69491aa71b1fc44dc5aa" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" target="_blank">
+<font color="#f56438">Privacy</font>
+</a> | <a href="https://link.keh.com/u/nrd.php?p=$uid$_1_2581641_1_67&ems_l=3780717&i=1&d=MTYwOTA3NzE5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK0NvcHkrb2YrU1lHKyUyODglMkYwNyUyRjIxJTI5Ky0rVmVyc2lvbislMjNh%7CVGVybXMrJTI2K0NvbmRpdGlvbnM%3D%7C&_esuh=_11_1e7d91a106ffbc724d585daf32cc4683587abbb4c6ca9cd7392e1ff2a22a723b" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" target="_blank">
+<font color="#f56438">Terms</font>
+</a> | <a href="https://link.keh.com/u/gm.php?prm=$uid$_794428135_2581641_1&_esuh=_11_8f45262fd3909727fe379f1553647bd36567fd703c0aea72ba2fd94047337267" style="color: #F56438; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; text-align: center; font-weight: normal; letter-spacing: 0.5px; text-decoration: none;" target="_blank">
+<font color="#f56438">View in browser</font>
+</a></td>
+</tr>
+<tr>
+<td width="10" height="12" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; line-height:19px; text-align: center; font-weight: normal; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; padding-left: 20px; padding-right: 20px; letter-spacing: 0.5px;" align="center"> <!--START Customer Email in <a> and <font> tags-->
+This email was sent to <a e-editable="email2l" href="mailto:kehtest@litmusemail.com" class="fc1 fwn tdn" style="font-weight: normal; text-decoration: none; color: #28343A;" target="_blank"><font e-editable="email2" class="ff fs12 fc1 fwn xsmall" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 12px; color: #28343A;">kehtest@litmusemail.com</font></a> by KEH Camera<br>5080 Highlands Pkwy SE, Suite B, Smyrna, GA 30082
+<!--END Customer Email-->
+<br>Need a break? <a href="https://link.keh.com/u/un.php?par=$uid$_2581641_1_$sid$&_esuh=_11_cb8a152c1b31100be0e77cb5e5b1512ecd83c89fdebf5b6c040499cb0c624046" style="color: #f56438; font-size: 10px; letter-spacing: 0.5px; line-height: 14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: normal;" target="_blank">
+<font color="#f56438">Unsubscribe</font>
+</a>
+</td>
+</tr>
+<tr>
+<td width="10" height="30" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+<tr>
+<td style="color:#28343A !important; font-size:10px; letter-spacing: 0px; line-height:14px; font-family: 'apercu', Helvetica, sans-serif;font-weight:normal;" align="center"><span>Please do not reply to this email as this account is
+automated and not monitored.
+</span></td>
+</tr>
+<tr>
+<td width="10" height="50" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--[if mso]>
+</table>
+</td>
+</tr>
+</center>
+<![endif]-->
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img src="https://link.keh.com/mo/$uid$_794428135_2581641_1_3780717.gif" height="2" width="2" border="0" alt=""></body>
+</html>
