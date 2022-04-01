@@ -1,0 +1,78 @@
+ <tr>
+                <td align="center" valign="middle" style="background-color:#E8F6F5;">
+
+                    <table class="wInner darkmode" border="0" cellpadding="0" cellspacing="0" role="presentation"  style="width:540px; background-color:#E8F6F5;">
+                   
+
+                        <!--This first row is a normal stacking two column row, with direction reversed. This allows the content to do stack on mobile - the column on the right will end up on top of the column to the left.-->
+                        <tr>
+                            <td align="center" valign="middle" style="font-size:0; padding: 0 0px;padding-top: 26px;background-color:#E8F6F5;">
+                                <!--[if (gte mso 9)|(IE)]>
+                                <table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+                                <tr>
+                                <td valign="middle" style="width: 255px;">
+                                <![endif]-->
+                                <div style="display:inline-block;vertical-align:middle;">
+                                    <table class="wFull" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 255px;background-color:#E8F6F5;">
+                                        <tr>
+                                            <td align="left" valign="middle" style="padding-bottom: 20px;">
+                                              <a e-editable="blog link" title="image link" href="https://keh.com/blog" target="_blank" style="color:#28343A; text-decoration: none;">
+                                                <img e-editable="blogImage" class="imgFull" src="http://image.keh.com/custloads/794428135/md_437572.jpg" alt="Woman with flower wreath in hair" width="225" height="225">
+                                              </a>
+                                            </td>
+                                        </tr>
+                                      <tr>
+                                          <!--[if mso]>
+                                          <style type="text/css">
+                                          body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+                                          </style>
+                                          <![endif]-->
+                                        
+                                          
+                                        
+                                        </tr>
+                                    </table>
+                                </div>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td><td valign="middle" style="width:225px;">
+                                <![endif]-->
+                                <div style="display:inline-block;vertical-align:middle;">
+                                    <table class="contentText" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:225px;">
+                                        <tr>
+                                          <!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+                                            <td align="left" valign="middle" dir="ltr" style="padding-bottom: 20px;" class="mobile-bottom-pad-45">
+                                          <e-optional name="headline">
+                                              <a e-editable="blog link" title="headline link" href="https://keh.com/blog" target="_blank" style="color:#28343A; text-decoration: none;">
+                                                <h3 e-editable="headline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:22px; line-height:28px; color:#28343A; margin:0; padding:0;">Headline
+                                                </h3>
+                                              </a>
+                                              </e-optional>
+                                              
+                                               <e-optional name="rating">
+                                                <img e-editable="5 star rating" class="imgFull" src="http://image.keh.com/custloads/794428135/md_528356.png" alt="Woman with flower wreath in hair" width="150" height="auto" style="margin:5px 0 0; padding:0;">
+                                              </e-optional>
+                                            
+                                                <p e-editable="blurb" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;">Discover what our data shows about the current state of the camera gear world.
+                                                </p>
+                                               
+                                               <e-optional name="read more">
+                                                <a e-editable="blog link" href="https://keh.com/blog" title="read more" target="_blank" style="color:#F56438; text-decoration: none;"><p e-editable="readmore" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#F56438; margin:11px 0 0;padding:0; text-align: left;">Read more ></p></a>
+                                                </e-optional>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                                <!--[if (gte mso 9)|(IE)]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                        </tr>
+                    </table>
+         </td>
+    </tr>
