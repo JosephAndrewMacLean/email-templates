@@ -1,0 +1,129 @@
+<!-- START Buying Event Block --> 
+
+<tr>
+<td align="center" bgcolor="#ffffff" style="background-color:#ffffff;">
+<!--[if gte mso 9]>
+<table bgcolor="#ffffff" align="center" border="0" cellspacing="0" cellpadding="0" width="600px" style="background-color:#ffffff;width:600px;">
+<tr>
+<td align="center" valign="top" width="600px" style="width:600px;">
+<![endif]-->
+    <e-optional name="top stroke">
+      <!--Stroke-->
+            <table class="mobile_width" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" width="600px" style="width:600px;">
+            </table>
+            <table class="mobile_width" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5" align="center" width="600px" style="width:600px;">
+              <tr>
+                <td align="center" height="1px" style="height:1px !important; max-height:1px;width:600px; background-color:#f5f5f5;">
+                </td>
+              </tr>
+            </table>
+       <!--END Stroke-->
+      </e-optional>
+    
+    <table class="mobile_width" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" width="600px" height="110px" style="background-color:#ffffff;width:600px; height:100px;" align="center" >
+              <tr>
+                <!-- START date -->
+                <td bgcolor="#ffffff" width="140" height="100px" style="width:140px; height:100px;" align="center" valign="middle">
+                  <table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+
+                      <td width="117.5px" style="width:117.5px;" align="center">
+                        <p e-editable="month" style="font-family:'apercu', Helvetica, sans-serif !important; font-size:18px; font-weight:400; color:#28343a; margin:0;">JULY</p>
+                      </td>
+                    </tr>
+                  </table>
+                  <table border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tr>
+                      <!--[if mso]>
+<style type="text/css">
+body, table, td, h1, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+
+                      <td width="117.5px" style="width:117.5px;" align="center" valign="top">
+                        <p e-editable="days" class="date_fix" style="font-family:'apercu', Helvetica, sans-serif !important; font-size:28px; font-weight:700; color:#28343a; margin:0;">20</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <!-- END date -->
+                  
+                <!-- START main info -->
+
+                <td width="290" height="100px" style="width:290px; height:50px;" align="left" valign="middle">
+                  <a e-editable="event link" title="event link" href="https://www.keh.com" color="#F56438" style="font-weight: normal; color: #F56438; text-decoration: none;" target="_blank"><p e-editable="venue name" class="mobile-font-20" style="font-family:'apercu', Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#F56438; margin-bottom:7px;"><b>
+                    Nelson Photo Supplies</b></p></a>
+                    <a style="font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; font-weight: normal; color: #28343a; margin: 0; text-decoration: none !important;" target="_blank"><p style="display:block;font-family:'apercu', Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#28343a; margin:0;margin-bottom:12px;"><span e-editable="start time" style="font-family:'apercu', Helvetica, sans-serif; font-size:14px; font-weight:normal; color:#28343a; margin:0;margin-bottom:2px;">
+                      10am - 4pm</span></p></a>
+              <!--[if mso]>
+<p style="font-family:'apercu', Helvetica, sans-serif; font-size:7px; font-weight:400; color:#28343a; margin-bottom:0px;">&nbsp;</p>
+<![endif]-->
+                </td>
+                <td width="170px" height="100px" class="no_dis" bgcolor="#ffffff" style="padding-top:11px;width:170px; height:100px;" align="center" valign="middle">
+                  <div><!--[if mso]>
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:45px;v-text-anchor:middle;width:120px;" arcsize="54%" stroke="f" fillcolor="#f56438">
+                <w:anchorlock/>
+                <center>
+                <![endif]-->
+                <a e-editable="event link" href="https://www.keh.com" style="background-color: #f56438; border-radius: 24px; color: #ffffff; display: inline-block; font-family: sans-serif; font-size: 16px; font-weight: normal; line-height: 45px; text-align: center; text-decoration: none; width: 120px; -webkit-text-size-adjust: none;" target="_blank">RSVP</a>
+                <!--[if mso]>
+                </center>
+                </v:roundrect>
+                <![endif]--></div>
+                    <table cellspacing="0" cellpadding="0" border="0" align="center">
+                    <tr>
+                     <td width="120px" height="30px" align="center" style="background-color:#FFFFFF; color:#F56438; font-family:'apercu', Helvetica, Arial, sans-serif; font-weight:normal; white-space:nowrap; width:120px; height:30px;">
+                        <a e-editable="ical link" title="ical event link" href="https://www.keh.com" target="_blank" style="color:#F56438; cursor:pointer; font-size:11px; text-align:center; text-decoration:none; vertical-align:baseline; font-weight:normal;">
+                          <span e-editable="ical text" style="padding:1px 1px; color:#F56438;">+ add to calendar</span></a></td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+              
+              
+            <!--Mobile Button-->
+            <!--[if !mso]><!-->
+            <table class="mobile_button" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" style="display:none; width:0; max-height:0; overflow:hidden; float:left; mso-hide: all;">
+<tr>
+<td class="gmailfix" style="background-color:#ffffff; display:none; width:0; max-height:0; overflow:hidden; float:left;" align="center">
+<div><!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://" style="height:45px;v-text-anchor:middle;width:120px;" arcsize="54%" stroke="f" fillcolor="#f56438">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a e-editable="event link" href="https://www.keh.com" style="background-color: #f56438; border-radius: 24px; color: #ffffff; display: inline-block; font-family: sans-serif; font-size: 16px; font-weight: normal; line-height: 45px; text-align: center; text-decoration: none; width: 130px; -webkit-text-size-adjust: none;" target="_blank">RSVP</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]--></div>
+</td>
+</tr>
+<tr>
+<td class="gmailfix" style="background-color:#ffffff; display:none; width:0; max-height:0; overflow:hidden; float:left;font-family:'apercu', Helvetica, Arial, sans-serif;" align="center">
+<a e-editable="ical link" title="ical event link" href="https://www.keh.com" target="_self" style="color: #F56438; cursor: pointer; font-size: 12px; text-align: center; text-decoration: none; vertical-align: baseline; font-weight: normal;">
+<span e-editable="ical text" style="padding:2px 2px; color:#F56438;font-family:'apercu', Helvetica, Arial, sans-serif;">+ add to calendar</span></a>
+</td>
+</tr>
+</table>
+            <!--<![endif]-->  
+    
+      <!--Stroke-->
+            <table class="mobile_width" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" align="center" width="600px" style="width:600px; height:1px;">
+            </table>
+            <table class="mobile_width" cellpadding="0" cellspacing="0" border="0" bgcolor="#f5f5f5" align="center" width="600px" style="width:600px; height:1px;">
+              <tr>
+                <td align="center" height="1px" style="height:1px; width:600px; background-color:#f5f5f5;">
+                </td>
+              </tr>
+            </table>
+       <!--END Stroke-->
+    </td>
+</tr>
+
+<!-- END Buying Event Block --> 
