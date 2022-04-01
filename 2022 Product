@@ -1,0 +1,79 @@
+<tr>
+<td align="center" valign="middle" style="background-color:#ffffff;">
+<table class="wInner" border="0" cellpadding="0" cellspacing="0" role="presentation" dir="ltr" style="width:540px; background-color:#ffffff;">
+<!--This first row is a normal stacking two column row, with direction reversed. This allows the content to do stack on mobile - the column on the right will end up on top of the column to the left.-->
+<tr>
+<td align="center" valign="middle" style="font-size:0; padding: 0 0px;padding-top: 0px;background-color:#F5F5F5;">
+<!--[if (gte mso 9)|(IE)]>
+<table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+<tr>
+<td valign="middle" style="width: 240px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="wFull topPad25" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 270px;background-color:#F5F5F5;">
+<tr>
+<td align="right" class="fw" valign="middle" style="padding-bottom: 0px;" width="270px" height="270px">
+<a e-editable="link" title="image link" href="#" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<img e-editable="blogImage" src="http://image.keh.com/custloads/794428135/md_567631.jpeg" alt="Woman with flower wreath in hair" width="270" height="auto">
+</a>
+</td>
+</tr>
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td><td valign="middle" style="width:225px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="fw" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:270px;">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="left" valign="middle" dir="ltr" style="padding-bottom: 0px;padding-left:20px;padding-right:15px;background-color:#F5F5F5;" class="fw mobile-bottom-pad-45 no-side-pad topPad25" height="240">
+<a e-editable="link" title="headline link" href="https://link.keh.com/u/nrd.php?p=$uid$_1_2466035_1_27&ems_l=3611068&i=1&d=MTUyNzM0NTI5%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK05ldytDdXN0b21lcitFbWFpbCUzQStCcmFuZCtJbnRybystK1ZlcnNpb24rJTIzYQ%3D%3D%7C%7C&_esuh=_11_3ca67afd9fbfdfdd39f22aaaf0a6aa3a4e3f85543d3d600ca980ddd5ccf6f22f" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<p e-editable="headline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:18px; line-height:24px; color:#28343A; margin:0; padding:0;" class="blogHeadline">
+  Rock n Roll M Limited Edition Camera Strap, 100cm
+</p>
+</a>
+  <e-optional name="rating image">
+<img e-editable="5 star rating" class="imgFull" src="https://image.keh.com/custloads/794428135/md_528356.png" alt="Woman with flower wreath in hair" width="150" height="auto" style="margin:5px 0 0; padding:0;">
+</e-optional>
+  <e-optional name="blurb">
+    <p e-editable="blurb" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;" class="blogText">
+  The wide aperture and longer focal length of this lens create stunning portraits.
+</p>
+    </e-optional>
+  <e-optional name="price">
+   <p e-editable="price" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;" class="blogText">
+  AS LOW AS: $268.13
+</p>
+    </e-optional>
+  <e-optional name="price discounted">
+   <p e-editable="discounted price" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#28343A; margin:11px 0 0; padding:0px; text-align: left;" class="blogText">
+     10% OFF: <strike style="color:#b1b4b6;">$268.13</strike> $241.32</p>
+    </e-optional>
+<a e-editable="link" href="#" title="read more" target="_blank" style="font-weight: normal; color: #F56438; text-decoration: none;"><p e-editable="shopnow" style="font-family:'apercu', Helvetica, sans-serif; font-size:16px; line-height:22px; color:#f56438; margin:11px 0 0;padding:0; text-align: left;" class="blogText">
+  SHOP NOW ></p></a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr>
