@@ -1,0 +1,66 @@
+    <!-- start responsive stacker -->
+    <tr>
+<td align="center" valign="middle" style="background-color:#E8F6F5;padding-top:5px;margin:0px;" class="padBot20">
+<table class="wInner darkmode" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:520px; background-color:#E8F6F5;margin:0px;padding:0px;">
+<!--This first row is a normal stacking two column row. This allows the content to stack on mobile - the column on the left will end up on top of the column to the right.-->
+<tr>
+<td align="center" valign="middle" style="font-size:0; margin:0px;padding:0px;padding-top: 2px;padding-bottom: 2px;background-color:#E8F6F5;">
+<!--[if mso]>
+<table align="center" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;">
+<tr>
+<td align="center" valign="middle" style="width: 130px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="img295" cellpadding="0" cellspacing="0" border="0" role="presentation" style="padding-left:0px;width: 130px;background-color:#E8F6F5;">
+<tr align="right">
+<td class="centerText"valign="middle" style="padding-bottom: 9px;">
+<a e-editable="category link" title="category link" href="https://www.keh.com/shop" target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+<img e-editable="img" src="http://image.keh.com/custloads/794428135/md_636185.png" alt="category name" width="110" height="110" class="" align="center" style="width: 110px; height: 110px;">
+</a>
+</td>
+</tr>
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+</tr>
+</table>
+</div>
+<!--[if mso]>
+</td><td valign="middle" style="width:390px;">
+<![endif]-->
+<div style="display:inline-block;vertical-align:middle;">
+<table class="stacker-text-container" cellpadding="0" cellspacing="0" border="0" role="presentation" style="width:390px;max-width:390px;">
+<tr>
+<!--[if mso]>
+<style type="text/css">
+body, table, td, h3, span, p {font-family: 'apercu', Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<td align="center" valign="middle" dir="ltr" style="padding-bottom: 15px;text-align:left;" class="centerText">
+  
+ <a  e-editable="category link" title="Local Pickup" href="https://www.keh.com/shop" target="_blank" style="font-weight: bold; color: #f56438; text-decoration: none !important;">
+<p e-editable="headline" class="stackerBulletHeadline" style="font-family:'apercu', Helvetica, sans-serif; font-weight:bold; font-size:22px; line-height: 1.6;color:#f56438; margin:0; padding:0;padding-top:3px;text-transform:uppercase;">Bags &amp; Cases</p>
+</a>
+  
+  <a target="_blank" style="font-weight: normal; color: #28343A; text-decoration: none;">
+    <p e-editable="text" class="centerText mobile-font-20 fw" style="width:80%;font-family:'apercu', Helvetica, sans-serif; font-weight:normal; font-size:16px; line-height: 1.3;color:#28343A; margin:1px 0 0;padding:0;padding-left:2px;">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+</a>
+</td>
+</tr>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</td>
+</tr> 
+   <!-- end responsive stacker --> 
