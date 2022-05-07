@@ -1,0 +1,179 @@
+/* this removes blue links in Gmail */
+#body #nobluelinks  a[x-apple-data-detectors]{
+      color: inherit !important;
+      text-decoration: inherit !important;
+    }
+/*for coupon code cta */
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+.ff {font-family:'apercu', Helvetica, Arial, sans-serif;}
+.lh, .lh font {line-height:1.2;}
+.fwn{font-weight:normal;}
+.fwb{font-weight:bold;}
+.tdn{text-decoration:none;}
+.fs9{font-size:9px;}
+.fs10{font-size:10px;}
+.fs11{font-size:11px;}
+.fs12{font-size:12px;}
+.fs14{font-size:14px;}
+.fs16{font-size:16px;}
+.fs20{font-size:20px;}
+.fc1{color:#28343A;}
+.fc2{color:#ffffff;}
+.fc3{color:#f56438;}
+.vat{vertical-align:top;}
+.vam{vertical-align:middle;}
+.vab{vertical-align:bottom;}
+h2 {font-size:26px !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+
+@media only screen and (max-width:414px) {
+  /* START styles for bullet img block and responsive stacker */
+.40Width {width:40px !important;}
+.stackerBulletHeadline {font-size: 28px !important;line-height:130% !important;padding-bottom:10px !important;padding-top:0px !important;text-transform: capitalize !important;}
+.stacker-text-container {width:80% !important;max-width:80%;}
+.sidePad20 {padding-left:20px !important; padding-right:20px !important;}
+.padLeft0 {padding-left: 0px !important;}  /* for gallery block, 3 col product stacker*/
+.pad0 {padding:0px !important;}
+.padBot0 {padding-bottom:0px !important;}
+.padBot15 {padding-bottom:15px !important;}
+.padBot20 {padding-bottom:20px !important;}
+.botPad25 {padding-bottom:25px !important;}  
+.mobile-bottom-pad-45 {padding-bottom: 45px !important;}
+.padTop0 {padding-top:0px !important;}
+.topPad10 {padding-top:10px !important;}
+.topPad25 {padding-top:25px !important;}  
+.stacker-border {border-bottom:1 #F5F5F5 solid !important;}
+.bulletImg {width:90px !important;height:90px !important;text-align: center !important;}
+.mobile-bullet-text-width {width:350px;max-width:350px;}
+.bulletText {text-align: center !important;font-size:20px !important;}
+/* END */ 
+.bulletImg150 {width:150px !important;height:150px !important;text-align: center !important;}
+  
+  /* START styles for new category blocks */
+.em_wrapper_50_1 {width: 45% !important;margin: 6px 6px !important;}
+.em_h40 {height: 40px !important;}
+.em_side24 {width: 24px !important;}
+.em_h70 {height: 70px !important;}
+  /* END styles for new category blocks */
+
+  .fw-margin-10 {margin: 0 10px!important; width:100% !important; min-width:0 !important;}
+  .contentCaption {font-size:10px !important;font-style: italic !important;color:#516169 !important;}
+    
+    h1[class="date_fix"] {
+            font-size: 24px !important;
+            padding-bottom: 20px !important;
+          }
+
+    td[class="no_dis"] {
+            display: none;
+          }
+
+    table[class="mobile_width"] {
+            width: 320px !important;
+          }
+
+    table[class="mobile_button"] {
+            display: block !important;
+            width: 320px !important;
+            max-height: 82px !important;
+            overflow: visible !important;
+            float: none !important;
+          }
+
+          td[class="gmailfix"] {
+            display: block !important;
+            width: 320px !important;
+            max-height: 82px !important;
+            overflow: visible !important;
+            float: none !important;
+            padding-bottom: 10px !important;
+          }
+
+          td[class="show_button"] {
+            height: 45px !important;
+          }   
+.catTitle2 {font-size:22px !important;} /* for 1x2 cat */
+.catMobile2 {width:290px !important;height:auto!important;} /* for 1x2 cat */
+.mobileBotPad20 {padding-bottom:20px !important;} /* for 1x2 cat */
+.fullCat {width: 100% !important;height: auto !important;} /* for 1x2 cat */
+.imgFull {width:295px !important;height:auto !important;} /* use img295 */
+.img250 {width:250px !important;height:auto !important;} /* for 3 col stacker */
+.img295 {width:295px !important;height:auto !important;}
+.giftcard {width:200px !important;max-width:100% !important;height:200px !important;display:block !important;}
+.giftcardContainer {width:100% !important;max-width:100% !important;height:auto !important;display:block !important;}
+.vat-mobile {vertical-align:top !important;}
+.contentText {width:84% !important;}
+.mobile9 {font-size: 9px !important;}
+.mobile10 {font-size: 10px !important;}
+.mobile12 {font-size: 12px !important;}
+.mobile15 {font-size: 15px !important;}
+.mobile-font-16 {font-size: 16px !important;}
+.mobile-font-18 {font-size: 18px !important;}
+.mobile-font-18-lh145 {font-size: 18px !important;line-height:145% !important;}
+.mobile-font-20 {font-size: 20px !important;}
+.mobile-font-22 {font-size: 22px !important;line-height:23px !important;}
+.mobile-font-24 {font-size: 24px !important;}
+.mobile-font-26 {font-size: 26px !important;}
+.blogHeadline {font-size: 26px !important;line-height:125% !important;} /*updated 3.15.22*/
+.blogText {font-size: 20px !important;line-height:130% !important;}
+.centerText {text-align: center !important;}
+.lh135 {line-height:135% !important;}
+.wInner {  width: 90% !important; }
+.mobile-width-65px {width:65px!important;max-width:65px !important;height:62px !important;} /* used in image bullet block */
+.mobile-width-50px {width:50px!important;max-width:50px !important;height:50px !important;} /* used in teal image bullet block for giveaway*/
+.mobile-top-pad-30 {padding-top:30px;} /*blog block*/
+.timerImage {width: 250px !important;max-width:60% !important;}
+.headerLogo {width: 100px !important;max-width: 100px !important; }
+.catTitle {font-size:13px !important}
+.hide-mobile {display:none !important;}
+.full {display:block !important; width:100% !important;}
+.halfWidth {width:50% !important; min-width:0 !important;}
+.fw {width:100% !important; min-width:0 !important;}
+.fwbanner {width:100% !important; min-width:0 !important;}
+.image {width:100% !important; height:auto !important;}
+.gf { font-size:17px !important; font-size:4.72vw !important; }
+ .mainHeadline {font-size: 34px !important;}
+  .bigHeadline {font-size: 38px !important}
+.xsmall {font-size:13px !important; font-size:3.61vw !important;}
+.rw70 {width: 70px !important;}
+.rw15 {width: 15px !important;}
+.rw10 {width: 10px !important;}
+.rh10, .rh10 div {height:10px !important; height:2.78vw !important;}
+.height5, .height5 div {height:5px !important; height:1.39vw !important;}
+u + .body .gwfw { width:100% !important; width:100vw !important;}
+
+.fs12{font-size:3.33vw!important;}
+.fs14{font-size:3.88vw!important;}
+.fs16{font-size:4.44vw!important;}
+.fs20{font-size:5.55vw!important;}
+.pr4{padding-right: 4px!important;}
+.halfwidth {width: 50%!important;}
+.floatleft {float: left!important;}
+.ctaMobile {font-size:22px !important;padding:18px 40px !important;}
+}
+
+@media only screen and (width:375px) {
+  .padSides8 {padding:0 8px 0 7px !important;}
+  h2 {font-size:25px !important;}
+  .ff {font-family:'apercu', Helvetica, sans-serif;}
+  .mainHeadline {font-size: 34px !important;}
+  .mobile-font-18 {font-size: 18px !important;}
+}
+
+<!--
+body {margin:0; padding:0; background:{variables.bg}; -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+a, a:active, a:visited, .yshortcuts, .yshortcuts span a {text-decoration:none; font-weight:normal; color:#ffffff;}
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important;}
+[office365] td div, [office365] button {display:block !important;}
+table th {padding:0; Margin:0; border:0; font-weight:normal; vertical-align:top;}
+-->
+
+  /* Blog Headline and Description - Responsive for small devices */
+@media only screen and (max-width:360px) {
+  .h2 {font-size:19px !important;}
+  h2 {font-size:25px !important;}
+  }
+
