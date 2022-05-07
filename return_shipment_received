@@ -1,0 +1,1418 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<head>
+  	<!--Milo on 4/01/21: replaced "return policy" link-->
+     <!--Milo on 12/21: updates to styles, removed dark mode styles, banner-->
+    <!--Milo on 11/03: more fixes to header-->
+    <!--Milo on 11/02: fixes to header-->
+    <title>KEH Camera</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="initial-scale=1, user-scalable=yes" />
+
+    <style>
+       
+
+				.ff {
+          font-family: 'apercu', Helvetica, sans-serif !important;
+        }
+
+        .lh,
+        .lh font {
+            line-height: 1.2 !important;
+        }
+
+        .fwn {
+            font-weight: normal !important;
+        }
+
+        .fwb {
+            font-weight: bold !important;
+        }
+
+        .tdn {
+            text-decoration: none !important;
+        }
+
+        .fs9 {
+            font-size: 9px !important;
+        }
+
+        .fs10 {
+            font-size: 10px !important;
+        }
+
+        .fs11 {
+            font-size: 11px !important;
+        }
+
+        .fs12 {
+            font-size: 12px !important;
+        }
+
+        .fs14 {
+            font-size: 14px !important;
+        }
+
+        .fs16 {
+            font-size: 16px !important;
+        }
+
+        .fs17 {
+            font-size: 17px !important;
+        }
+
+        .fs18 {
+            font-size: 18px !important;
+        }
+
+        .fs20 {
+            font-size: 20px !important;
+        }
+
+        .fs30 {
+            font-size: 30px !important;
+        }
+
+        .fc1 {
+            color: #28343A !important;
+        }
+
+        .fc2 {
+            color: #ffffff !important;
+        }
+
+        .fc3 {
+            color: #f56438 !important;
+        }
+
+        .fc4 {
+            color: #555555 !important;
+        }
+
+        .fc5 {
+            color: #f56438 !important;
+        }
+
+        .la1 a {
+            font-weight: normal !important;
+            text-decoration: none !important;
+            color: #28343A !important;
+        }
+
+        .la1b a {
+            font-weight: bold !important;
+            text-decoration: none !important;
+            color: #28343A !important;
+        }
+
+        .la2b a {
+            font-weight: bold !important;
+            text-decoration: none !important;
+            color: #ffffff !important;
+        }
+
+        .la3b a {
+            font-weight: bold !important;
+            text-decoration: none !important;
+            color: #f56438 !important;
+        }
+
+        .la4 a {
+            font-weight: normal !important;
+            text-decoration: none !important;
+            color: #555555 !important;
+        }
+
+        .latext a {
+            font-weight: normal !important;
+            text-decoration: none !important;
+            color: #f56438 !important;
+        }
+
+        .la5 a {
+            font-weight: normal !important;
+            text-decoration: none !important;
+            color: #f56438 !important;
+        }
+
+        .vat {
+            vertical-align: top !important;
+        }
+
+        .vam {
+            vertical-align: middle !important;
+        }
+
+        .vab {
+            vertical-align: bottom !important;
+        }
+
+        .cta1a {
+            color: #ffffff !important;
+            font-weight: normal !important;
+            text-decoration: none !important;
+            display: block !important;
+            padding: 13px 0 !important;
+        }
+
+        .cta1a2 {
+            color: #ffffff !important;
+            font-weight: normal !important;
+            text-decoration: none !important;
+            display: block !important;
+            padding: 9px 0 !important;
+        }
+
+        .ctaf {
+            font-family: 'apercu', Helvetica, sans-serif !important;
+            font-size: 16px !important;
+            color: #ffffff !important;
+            font-weight: normal !important;
+        }
+
+        .ctaf2 {
+            font-family: 'apercu', Helvetica, sans-serif !important;
+            font-size: 10px !important;
+            color: #ffffff !important;
+            font-weight: normal !important;
+        }
+
+
+        @media only screen and (max-width:414px) {
+            .navsmall {
+            	font-size: 9px !important;
+            }
+            .navgap {
+            	width: 6px !important;
+            }
+            .bannerText {
+            	font-size: 11px !important;
+            }
+            
+            .headerLogo {
+            	width: 70px !important;
+              max-width: 70px !important;
+            }
+            .rw15 {width: 15px !important;}
+            .mobile9 {
+            	font-size: 9px !important;
+            }
+						.social-footer-gap {
+                width: 3px !important;
+            }
+
+            .fl {
+                display: block !important;
+                width: 100% !important;
+            }
+
+            .fw {
+                width: 100% !important;
+                min-width: 0 !important;
+            }
+
+            .mh {
+                display: none !important;
+            }
+
+            .image {
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            .singleprodimage {
+                width: 200px height: auto !important;
+            }
+
+            .rom {
+                text-align: right !important;
+            }
+
+            .gf {
+                font-size: 17px !important;
+                font-size: 4.72vw !important;
+            }
+
+            h2 {
+                font-size: 32px !important;
+
+            }
+
+            h1 {
+                font-size: 32px !important;
+            }
+
+            .small {
+                font-size: 15px !important;
+                font-size: 4.17vw !important;
+            }
+
+            .xsmall {
+                font-size: 13px !important;
+                font-size: 3.61vw !important;
+            }
+
+            .rw10 {
+                width: 10px !important;
+            }
+
+            .rh10,
+            .rh10 div {
+                height: 10px !important;
+                height: 2.78vw !important;
+            }
+
+            .rh20,
+            .rh20 div {
+                height: 20px !important;
+                height: 5.55vw !important;
+            }
+
+            .mtop5 {
+                margin-top: 5px !important;
+                margin-top: 1.39vw !important;
+            }
+
+            .mtop10 {
+                margin-top: 10px !important;
+                margin-top: 2.78vw !important;
+            }
+
+            .s1,
+            .s1 div {
+                height: 10px !important;
+                height: 2.78vw !important;
+            }
+
+            .s2,
+            .s2 div {
+                height: 5px !important;
+                height: 1.39vw !important;
+            }
+
+            .s3,
+            .s3 div {
+                height: 10px !important;
+                height: 2.78vw !important;
+            }
+
+            .sm1 {
+                margin-bottom: 10px !important;
+                margin-bottom: 2.78vw !important;
+            }
+
+            .tlf {
+                table-layout: fixed !important;
+            }
+
+            .mcta1 {
+                padding: 10px !important;
+                padding: 2.77vw 10px !important;
+            }
+
+            u+.body .gwfw {
+                width: 100% !important;
+                width: 100vw !important;
+            }
+
+            .fs9 {
+                font-size: 2.5vw !important;
+            }
+
+            .fs10 {
+                font-size: 2.77vw !important;
+            }
+
+            .fs11 {
+                font-size: 3.05vw !important;
+            }
+
+            .fs12 {
+                font-size: 3.33vw !important;
+            }
+
+            .fs14 {
+                font-size: 3.88vw !important;
+            }
+
+            .fs16 {
+                font-size: 4.44vw !important;
+            }
+
+            .fs17 {
+                font-size: 4.72vw !important;
+            }
+
+            .fs18 {
+                font-size: 5vw !important;
+            }
+
+            .fs20 {
+                font-size: 5.55vw !important;
+            }
+
+            .fs30 {
+                font-size: 8.33vw !important;
+            }
+        }
+
+        .pr4 {
+            padding-right: 4px !important;
+        }
+
+        .halfwidth {
+            width: 50% !important;
+        }
+
+        .p10 {
+            padding: 10px !important;
+        }
+
+        .floatleft {
+            float: left !important;
+        }
+
+        @media only screen and (width:375px) {
+
+            .mobileh1 {
+            	font-size: 23px !important;
+            }
+            .iph {
+                padding: 0 8px 0 7px !important;
+                
+
+            .social-footer-gap {
+                width: 2px !important;
+            }
+
+            .ff {
+                font-family: 'apercu', Helvetica, sans-serif;
+            }
+        }
+        
+
+       
+
+
+        /*Fonts******************/
+        /* FONTS */
+        @media screen {
+
+            /* latin */
+            @font-face {
+                font-family: 'Apercu';
+                src: url('http://image.keh.com/custloads/794428135/md_262452.woff2') format('woff2'),
+                url('http://image.keh.com/custloads/794428135/md_262451.woff') format('woff'),
+                url('http://image.keh.com/custloads/794428135/md_262450.ttf') format('truetype');
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            @font-face {
+                font-family: 'portrait';
+                src: url('http://image.keh.com/custloads/794428135/md_287789.otf') format('opentype'),
+                url('http://image.keh.com/custloads/794428135/md_287790.otf') format('opentype'),
+                font-weight: 600;
+                font-style: normal;
+            }
+            
+            @font-face {
+                font-family: 'apercu', Helvetica, sans-serif;
+            ;
+                src: url('http://image.keh.com/custloads/794428135/md_262452.woff2') format('woff2'),
+                url('http://image.keh.com/custloads/794428135/md_262451.woff') format('woff'),
+                url('http://image.keh.com/custloads/794428135/md_262450.ttf') format('truetype');
+                font-weight: 400;
+                font-style: normal;
+            }
+
+
+
+            /* Listing Block Mobile Responsive */
+            @media only screen and (max-width: 510px) {
+                .footerLogo {
+                    width: '70%' !important;
+                }
+
+                .hide-mobile {
+                    display: none !important;
+                    max-height: 0;
+                }
+            }
+
+            /* Blog Headline and Description - Responsive for Androids and small devices */
+            @media only screen and (max-width:360px) {
+                h2 {
+                    font-size: 28px !important;
+                }
+
+                .centerText {
+                    font-size: 14px !important;
+                    line-height: 135% !important;
+                }
+            }
+
+
+            
+    </style>
+
+    <!--[if !mso]><!-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--<![endif]-->
+    <!--[if (gte mso 9)]>
+    <style type="text/css">
+        table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; border:0;}
+        table td, table th {border-collapse:collapse; font-size:1px; line-height:1px;}
+        .inpl-not-mailing table {border-collapse:separate;}
+        .lh {line-height:100% !important;}
+        .inpl-not-mailing .lh, .inpl-not-mailing .lh font {line-height:1.2 !important;}
+        .lh15p {line-height:125% !important;}
+        .inpl-not-mailing .lh15p, .inpl-not-mailing .lh15p font {line-height:1.5 !important;}
+        .lh20p {line-height:167% !important;}
+        .inpl-not-mailing .lh20p, .inpl-not-mailing .lh20p font {line-height:2 !important;}
+    </style>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type="text/css">
+        .ol600 {width:600px;}
+        .ol610 {width:600px;}
+        .olcta {padding:0 !important; background-color:none !important; background-image:none !important; background:none !important; border:none !important; -moz-border-radius:0 !important; -webkit-border-radius:0 !important; border-radius:0 !important;}
+        .oltd1 {padding:13px 0; line-height:normal !important;}
+        .oltd12 {padding:9px 0; line-height:normal !important;}
+        .inpl-not-mailing .cta1a {color:#ffffff;} !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:13px 0 !important;}
+        .inpl-not-mailing .cta1a2 {color:{#ffffff;} !important; font-weight:normal !important; text-decoration:none !important; display:block !important; padding:9px 0 !important;}
+        .inpl-not-mailing .oltd1 {padding:0 !important; line-height:normal !important;}
+        .inpl-not-mailing .oltd12 {padding:0 !important; line-height:normal !important;}
+    </style>
+
+    <![endif]-->
+
+
+</head>
+
+<body class="darkmode" width="600" align="center" bgcolor="#f5f5f5" style="background-color: #f5f5f5;">
+
+<tr class="darkmode" bgcolor="#f5f5f5" style="background-color: #f5f5f5;">
+    <td class="darkmode" bgcolor="#f5f5f5" style="background-color: #f5f5f5;">
+        <!--[if (gte mso 9)|(IE)]>
+        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="background-color: #f5f5f5;">
+            <tr>
+                <td align="center" valign="top" width="600">
+        <![endif]-->
+        <!-- START top banner-->      
+       <table class="topBannerDark" align="center" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" style="width:100%;background-color:#28343a;max-width:600px;">	
+            <tr>
+                <td colspan="4" height="10" class="rw10"><div></div></td>
+            </tr>
+            <tr>
+                <td width="10" class="rw10"></td>
+                <td align="left">
+                    <table cellspacing="0" cellpadding="0" border="0"> <!--[if mso]>
+<style type="text/css">
+body, table, td, span {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+                    <tr>
+                        <td align="center">
+                            <a title href="http://link.keh.com/u/nrd.php?p=$uid$_1_489418_1_40&ems_l=710151&i=1&d=MzYwOTQ2MTk%3D%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1doaWxlK1N1cHBsaWVzK0xhc3QrJTI4MTIlMkYyMCUyRjE5JTI5%7C%7C" style="text-decoration: none; font-weight: normal; color: #28343a;" target="_blank"><img src="http://image.keh.com/custloads/794428135/md_359763.png" width="14" border="0" style="display: block; width: 14px;" alt="KEH Phone Number"></a>
+                        </td>
+                        <td width="5" class="rw10"></td>
+                        <td align="left" class="lh vam bannerText hide-mobile-414" valign="middle" style="line-height: 1.2; vertical-align: middle;">
+
+<a href="http://link.keh.com/u/nrd.php?p=$uid$_1_489418_1_41&ems_l=710151&i=1&d=MzYwOTQ2MjA%3D%7CJTI0dWlkJTI0%7C%7CVGVzdCsxK1doaWxlK1N1cHBsaWVzK0xhc3QrJTI4MTIlMkYyMCUyRjE5JTI5%7C%7C" target="_blank" rel="noopener" style="font-weight: normal; text-decoration: none; color: #ffffff;" class="bannerText">
+
+<font class="ff fs12 bannerText" style="font-family: 'apercu', Helvetica, sans-serif; font-weight: normal; font-size: 14px; color: #ffffff; line-height: 1.2;">
+
+<span class="la1b bannerText">1-800-DIALKEH</span>
+
+</font>
+</a>
+</td>
+                    </tr>
+                </table>
+            </td>
+            <td align="right" class="vam" valign="middle" style="vertical-align: middle;">
+                <table cellspacing="0" cellpadding="0" border="0" class="fw">
+                    <tr>
+                        <td align="right" class="lh" style="line-height: 1.2;">
+                            <a href="http://link.keh.com/u/gm.php?prm=$uid$_794428135_489418_1" target="_blank" class="tdn" title="View Online" style="font-weight: normal; text-decoration: none; color: #ffffff;" class="bannerText"><font class="lh ff fs14 bannerText" style="font-family: 'apercu', Helvetica, sans-serif; font-size: 14px; color: #ffffff; line-height: 1.2;"><span e-editable="copy" class=" bannerText">Free shipping on orders $49+</span></font></a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="15" class="rw10"></td>
+        </tr>
+        <tr>
+            <td colspan="4" height="10" class="rh10"><div></div></td>
+        </tr>
+</table>
+<!-- END top banner-->             
+      
+      
+<!--START header-->
+        <table class="fw" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" style="max-width: 600px; background-color: #f5f5f5;">
+            <tr>
+                <td height="10" class="rh10">
+                    <div></div>
+                </td>
+            </tr>
+          <tr>
+  <td height="35" align="center" valign="middle" class="vam">
+    <table cellspacing="0" cellpadding="0" border="0">   <!--[if mso]>
+  <!--[if mso]>
+<style type="text/css">
+body, table, td, span, a, font {font-family: Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+      <tr>
+                <td align="center"><a title="KEH" href="https://www.keh.com/"><img class="headerLogo" alt="KEH Camera Logo" e-editable="logo" src="http://image.keh.com/custloads/794428135/md_379346.png" width="120" height="auto" border="0" style="max-width:120px;"></a></td>
+                        <td width="30" class="rw15"></td>
+                        <td align="center" class="lh"><a e-editable="navlink1" href="https://www.keh.com/shop/shopby" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-size:16px;text-decoration:none;color:#28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-size:16px;text-decoration:none;color:#28343a;" ><span style="font-size:16px;font-family:'apercu', Helvetica, sans-serif !important;color:28343A; text-decoration:none !important;" e-editable="nav1" class="mobile9 ff xsmall">SHOP</span></font></a></td>
+                        <td width="30" class="rw15"></td>
+                        <td align="center" class="lh"><a e-editable="navlink2" href="https://www.keh.com/sell" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-size:16px;text-decoration:none;color:#28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-size:16px;text-decoration:none;color:#28343a;"><span style="font-size:16px;font-family:'apercu', Helvetica, sans-serif !important;color:28343A; text-decoration:none !important;" e-editable="nav2" class="mobile9 ff xsmall">SELL</span></font></a></td>
+                        <td width="30" class="rw15"></td>
+                        <td align="center" class="lh"><a e-editable="navlink3" href="https://www.keh.com/shop/repair" target="_blank" class="mobile9 ff fc1 fwb tdn" style="font-size:16px;text-decoration:none;color:#28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-size:16px;text-decoration:none;color:#28343a;"><span style="font-size:16px;font-family:'apercu', Helvetica, sans-serif !important;color:28343A; text-decoration:none !important;" e-editable="nav3" class="mobile9 ff xsmall">REPAIR</span></font></a></td>
+                        <td width="30" class="rw15"></td>
+                        <td align="center" class="lh"><a e-editable="navlink4" href="https://www.keh.com/blog" target="_blank" class="ff fc1 fwb tdn mobile9" style="font-size:16px;text-decoration:none;color:#28343a;"><font class="ff fs16 fc1 xsmall mobile9" style="font-size:16px;text-decoration:none;color:#28343a;"><span style="font-size:16px;font-family:'apercu', Helvetica, sans-serif !important;color:28343A; text-decoration:none !important;" e-editable="nav4" class="mobile9 ff xsmall">BLOG</span></font></a></td>
+                        <td width="30" class="rw15"></td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+
+
+            <tr>
+                <td height="10" class="rh10">
+                    <div></div>
+                </td>
+            </tr>
+        </table>
+          
+<!--END header-->
+
+
+            <tr>
+                <td height="10" class="rh10">
+                    <div></div>
+                </td>
+            </tr>
+        </table>
+
+
+        <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" style="max-width: 600px;">
+            <tr>
+                <td>
+
+                    <!--Section 1 - HEADER-->
+                    <!--[if gte mso 9]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                        <tr>
+                            <td align="center" valign="top" width="600" style="width:600px;">
+                    <![endif]-->
+                    <table bgcolor="#f5f5f5" class="fw" border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="max-width: 600px;">
+
+                        <tr>
+                            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                <table bgcolor="#f5f5f5" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; background-color: #f5f5f5;">
+
+                                    <tr>
+
+                                        <td bgcolor="#f5f5f5" valign="top"
+                                            style="padding-left:25px; padding-right:25px; padding-top:10px; padding-bottom:0px;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'portrait', 'apercu',Helvetica, sans-serif !important;;line-height: 120%;background-color:#f5f5f5;">
+
+                                            <h1 e-editable="Headline"
+                                                style=" font-size:48px; display: block; margin: 0;padding-top:0px;color: #28343A; font-family: 'portrait', 'apercu', Helvetica, sans-serif;font-style: ;font-weight: 400; line-height: 120%;letter-spacing: normal;text-align: center;">
+
+
+                                                <span e-editable="Span" style="font-family: 'portrait', 'apercu', Helvetica, sans-serif !important;">Return received</span></h1>
+
+
+
+
+
+                                        </td>
+                                    </tr>
+
+                                </table>
+
+                            </td>
+                        </tr>
+
+                    </table>
+                    <!--[if gte mso 9]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+        </table>
+        <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" style="max-width: 600px;">
+
+            <tr>
+                <td>
+                    <!-- gap below h1-->
+                    <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" style="max-width: 600px;">
+                        <tr>
+                            <td height="15"> </td>
+                        </tr>
+                    </table>
+                    <!-- END gap below h1-->
+
+                </td>
+            </tr>
+        </table>
+
+    </td>
+</tr>
+
+
+
+<!--[if mso]>
+<center>
+    <tr><td>
+        <table border="0" cellpadding="0" cellspacing="0" width="600">
+<![endif]-->
+
+<!-- START full white block -->
+<tr bgcolor="#ffffff" style="background-color: #ffffff;">
+    <td bgcolor="#ffffff" style="background-color: #ffffff;">
+        <!--[if (gte mso 9)|(IE)]>
+        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="background-color: #ffffff;">
+            <tr>
+                <td align="center" valign="top" width="600">
+        <![endif]-->
+        <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px;">
+            <!-- top padding -->
+            <tr>
+                <td height="25"></td>
+            </tr>
+            <!-- top padding -->
+            <tr>
+                <!-- left padding -->
+                <td width="0"></td>
+                <!-- left padding -->
+                <td>
+
+
+
+                    <!-- START text block -->
+
+                    <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 600px;">
+                        <tr>
+                            <td>
+
+                                <!--[if gte mso 9]>
+                                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="600" style="width:600px;">
+                                <![endif]-->
+                                <table class="fw" align="left" border="0" cellpadding="0" cellspacing="0" width="100%"
+                                       style="max-width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                    <tbody >
+                                    <tr>
+                                        <td valign="top"  style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                            <table class="fw" border="0" cellpadding="0" cellspacing="0" align="center" width="80%"
+                                                   style="max-width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" >
+
+                                                <tr>
+
+                                                    <td width="80%" valign="top" align="left" style="padding-left:10px; padding-right:10px; padding-top:10px; text-align: left;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;font-family:'apercu', Helvetica, sans-serif;line-height: 135%;background-color:#ffffff;">
+
+
+
+                                                        <p width="80%" e-editable="copy" style="max-width: 450px; color: #28343A;font-size: 16px;font-weight:normal;text-align: left!important;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                                            <font width="80%" align="left" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                                                                <!--START subheading-->
+                                                                KEH has received your items!  Your refund or exchange should be processed within the next 3-5 business days.  If the item(s) received have been returned for a warranty repair, a notification will be sent via email when the repair is complete with tracking details of the item(s) being returned.
+                                                                <br><br>
+                                                                We appreciate your business and look forward to working with you again.
+                                                                <!--END subheading-->
+                                                            </font></p>
+
+
+
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                                <!--[if gte mso 9]>
+                                </td>
+                                </tr>
+                                </table>
+                                <![endif]-->
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td height="40" class="">&nbsp;<br>&nbsp;</td>
+                        </tr>
+
+                    </table>
+
+                    <!-- END text block -->
+
+
+
+                    <!-- START invoice grey row -->
+                    <table width="90%" valign="top" cellspacing="0" cellpadding="2" align="center" style="max-width:520px; background-color: #f5f5f5; border: 1px solid #a3a3a3;" valign="top">
+                        <tr>
+                            <td>
+                                <table width="90%" valign="top" cellspacing="0" cellpadding="3" align="center" style="max-width:520px; background-color: #f5f5f5;" valign="top">
+                                    <tr>
+                                        <!--top padding for invoice box-->
+                                        <td height="18"></td>
+                                        <!--top padding for invoice box-->
+                                    </tr>
+
+                                    <!-- START  information row -->
+                                    <tr valign="top" style="vertical-align: top;">
+
+
+
+                                        <!-- Left padding -->
+
+                                        <td width="10">
+                                        </td>
+
+                                        <!-- END Left Padding -->
+
+                                        <!-- START Quote Date  column-->
+                                        <td width="45%">
+                                            <table align="center">
+                                                <tr>
+                                                    <th align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:700;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 125%;">ORIGINAL ORDER ID
+                                                    </th>
+                                                </tr>
+                                                <tr>
+
+
+                                                    <td align="left"
+                                                        style="color: #45a8a6;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto Mono', Courier, sans-serif;line-height: 125%;">
+                                                        <!-- START ORDER ID-->
+                                                        <span style="color:#45a8a6;font-weight:bold;"> 
+
+                                                            {% if var:order.service_id:false %} 
+                                                              {{var:order.service_id:"N/A"}} 
+                                                            {% else %} 
+                                                              {{var:order.doc_id:"N/A"}} 
+                                                            {% endif %}
+                                                        </span>
+                                                        <!-- END ORDER ID-->
+                                                    </td>
+
+                                                <tr>
+                                                    <td height="24">
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <th align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:700;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 125%;">RMA ID
+                                                    </th>
+                                                </tr>
+                                                <tr>
+
+                                                    <!--START RMA ID-->
+
+                                                    <td align="left"                                                  style="color: #283438;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 125%;">
+                                                        {{var:order.rma_number:"N/A"}}
+                                                    </td>
+                                                    <!--END RMA ID-->
+
+                                                </tr>
+
+
+
+                                            </table>
+                                        </td>
+
+
+                                        <!-- VERTICAL SEPARATOR -->
+                                        <td>
+                                            <table>
+
+                                                <tr>
+                                                    <td height="130" bgcolor="#ffffff" width="" style="border-left:1px solid #a3a3a3;">
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+                                        </td>
+                                        <!-- END VERTICAL SEPARATOR -->
+
+                                        <!-- START billing column-->
+                                        <td width="45%">
+                                            <table align="center" text-align="left" >
+                                                <tr>
+                                                    <th align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:700;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 125%;">
+                                                        BILLING ADDRESS
+                                                    </th>
+                                                </tr>
+                                                <tr>
+
+                                                    <!--START Billing Full Name-->
+                                                    <td align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 125%;">
+                                                        {{var:customer.address.billing_address.full_name:"N/A"}}
+                                                    </td>
+                                                    <!--END Billing Full Name-->
+
+                                                </tr>
+                                                <tr>
+
+                                                    <!--START Billing Address 1-->
+                                                    <td align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 125%;">
+                                                        {{var:customer.address.billing_address.address_line_1:"N/A"}}
+                                                    </td>
+                                                    <!--END Billing Address 1-->
+
+                                                </tr>
+                                                <tr>
+
+                                                    <!--START Billing Address 2-->
+                                                    <td align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 125%;">
+
+                                                        {{var:customer.address.billing_address.address_line_2:""}}
+                                                    </td>
+                                                    <!--END Billing Address 2-->
+
+                                                </tr>
+                                                <tr>
+
+                                                    <!--START Billing Address 3-->
+                                                    <td align="left"
+                                                        style="color: #283438;font-size: 12px;font-weight:normal;margin: 0px 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 125%;">
+                                                        {{var:customer.address.billing_address.city:"N/A"}}, {{var:customer.address.billing_address.state:"N/A"}} {{var:customer.address.billing_address.postal_code:"N/A"}}, {{var:customer.address.billing_address.country_code:"N/A"}}
+                                                    </td>
+                                                    <!--END Billing Address 3-->
+
+                                                </tr>
+
+
+                                            </table>
+                                        </td>
+                                        <!-- END ordered by column-->
+
+
+
+
+                                        <!-- right padding -->
+                                        <td width="15"></td>
+                                        <!-- right padding -->
+                                    </tr>
+                                    <!-- END information row -->
+
+
+                                    <tr>
+                                        <!-- bottom padding -->
+                                        <td height="18"></td>
+                                        <!-- bottom padding -->
+                                    </tr>
+                                </table>
+
+
+                            </td>
+                        </tr>
+
+                    </table>
+
+                    <!-- START padding below grey box -->
+                    <table width="90%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px;">
+                        <tr>
+                            <td height="35"></td>
+                        </tr>
+                    </table>
+
+
+
+
+                    <table width="90%" valign="top" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0" align="center" style="max-width:520px; background-color: #ffffff;">
+                        <tr>
+                            <td height="10"></td>
+                        </tr>
+                        <tr>
+                            <td width="50%" align="left" style="min-width:135px ! important; max-width:50% ! important;">
+                                <p align="left"
+                                   style="text-align: left ! important;color: #28343A;font-size: 14px;font-weight:400;text-align: left;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica,sans-serif;line-height: 135%;">
+                <span align="left" class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+                  RETURNED ITEM(S)
+                </span></p>
+
+                            </td>
+                            <td align="center" width="20%" style="min-width:50px ! important; max-width:20%! important; padding:5px;margin:auto;-ms-text-size-adjust:none;font-size:16px;text-align:center">
+                                <p
+                                        style="color: #28343A;font-size: 14px;font-weight:400;text-align: center;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                    GRADE<span class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                </span></p>
+                            </td>
+                            <td width="10%" style="min-width:10%; max-width:10%; padding-left: 2px !important; padding-right: 2px !important;">
+                                <p
+                                        style="color: #28343A;font-size: 14px;font-weight:400;text-align: center;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                    QTY<span class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                </span></p>
+
+                            </td>
+                            <td width="20%" style="min-width:20%; max-width:20%">
+                                <p
+                                        style="color: #28343A;font-size: 14px;font-weight:400;text-align: center;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                    PRICE<span class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                </span></p>
+
+                            </td>
+
+                            <!-- right padding -->
+                            <td width="10"></td>
+                            <!-- right padding -->
+                        </tr>
+                        <!-- END item information row -->
+
+
+                        <tr>
+                            <!-- bottom padding -->
+                            <td height="10"></td>
+                            <!-- bottom padding -->
+                        </tr>
+                    </table>
+
+                    <!-- START line -->
+                    <table align="center" cellspacing="0" cellpadding="0" border="0" width="90%" style="max-width:520px;">
+                        <tr>
+                            <td align="center" valign="top" width="90%" height="1" bgcolor="#9b9b9b" style="background-color: #9b9b9b; border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-line-height-rule: exactly; line-height: 1px;">
+                                <!--[if gte mso 15]>&nbsp;<![endif]-->
+                            </td>
+                        </tr>
+                    </table>
+                    <!-- END line -->
+
+                    <!-- START item information row -->
+                    <table width="90%" valign="top" cellspacing="0" cellpadding="0" bgcolor="#ffffff" border="0" align="center" style="max-width:520px; background-color: #ffffff;">
+                        <tr>
+                            <td height="10"></td>
+                        </tr>
+                        {% for item in var:order.items %}
+                        <tr>
+                            <td width="50%">
+                                <p e-editable="copy"
+                                   style="color: #28343A;font-size: 12px;font-weight:bold;text-align: left;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 135%;">
+
+                                    <!--START Item Model Name-->
+                                    <span class="centerText" style="font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif !important;">
+                  {{item.model_name}}
+                </span></p>
+                                <!--END Item Model Name-->
+
+                                <!-- Start Notes-->
+
+                                <p e-editable="copy"
+                                   style="color: #28343A !important; text-decoration: italic !important; font-size: 12px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                    <font class="ff fs12 fc1 xsmall" style="color: #28343A !important; text-decoration: italic !important;">
+                                        <!--START Item Attributes-->
+                                        <span class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;font-size: 10px; color: #28343A !important; text-decoration: italic !important;">
+                    <em>Notes: {{item.attributes}}</em>
+                  </span></font>
+                                </p>
+                                <!--END Item Attributes-->
+
+                                <p e-editable="copy"
+                                   style="color: #28343A !important; text-decoration: none !important; font-size: 12px;font-weight:normal;text-align: left;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                                    <font class="ff fs12 fc1 xsmall" style="color: #28343A !important; text-decoration: none !important;">
+
+                                        <!--START Item SKU-->
+                                        <span class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;color: #28343A !important; text-decoration: none !important;">
+                    SKU: <span class="centerText" style="font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif !important;color: #28343A !important; text-decoration: none !important;">{{item.sku}}</span>
+                  </span></font>
+                                </p>
+                                <!--END Item SKU-->
+
+                            </td>
+                            <td align="center" width="20%" style="max-width:200px;padding:5px;margin:auto;-ms-text-size-adjust:none;font-size:16px;text-align:center">
+                                <p e-editable="copy"
+                                   style="color: #28343A;font-size: 12px;font-weight:normal;text-align: center;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 135%;">
+
+                                    <!--START Item Grade Tag-->
+                                    <span class="centerText" style="font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif !important;">{{item.grade_tag}}</span></p>
+                                <!--END Item Grade Tag-->
+
+                            </td>
+                            <td width="10%">
+                                <p e-editable="copy"
+                                   style="color: #28343A;font-size: 12px;font-weight:normal;text-align: center;margin: 0px 0;padding-top:0px;padding-right:2px;padding-left:2px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 135%;">
+
+                                    <!--START Item Quantity-->
+                                    <span class="centerText" style="font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif !important;">{{item.quantity}}</span></p>
+                                <!--END Item Quantity-->
+
+                            </td>
+                            <td width="20%">
+                                <p e-editable="copy"
+                                   style="color: #28343A;font-size: 12px;font-weight:normal;text-align: center;margin: 0px 0;padding-top:0px;padding-right:0px;padding-left:0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif;line-height: 135%;">
+
+                                    <!--START Item Price-->
+                                    <span class="centerText" style="font-family: 'apercu mono', 'Roboto mono', Courier, sans-serif !important;">{{item.price}}</span></p>
+                                <!--END Item Price-->
+
+                            </td>
+
+                            <!-- right padding -->
+                            <td width="10"></td>
+                            <!-- right padding -->
+                        </tr>
+                        {% endfor %}
+                        <!-- END item information row -->
+
+
+                        <tr>
+                            <!-- bottom padding -->
+                            <td height="20"></td>
+                            <!-- bottom padding -->
+                        </tr>
+                    </table>
+
+                    <!-- START line -->
+                    <table align="center" cellspacing="0" cellpadding="0" border="0" width="90%" style="max-width:520px;">
+                        <tr>
+                            <td align="center" valign="top" width="90%" height="1" style="background-color: #9b9b9b; border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; mso-line-height-rule: exactly; line-height: 1px;">
+                                <!--[if gte mso 15]>&nbsp;<![endif]-->
+                            </td>
+                        </tr>
+                        <!--below line padding-->
+                        <tr><td height="10"></td></tr>
+                        <!--END below line padding-->
+                    </table>
+                    <!-- END line -->
+
+
+
+
+                    <!-- END full items block -->
+
+                    <!-- gap -->
+                    <table width="90%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px!important;">
+                        <tr>
+                            <td height="40">
+
+
+                            </td>
+                        </tr>
+                    </table>
+                    <!-- gap -->
+
+
+
+
+
+
+
+
+
+                    <!-- Questions About This Order? -->
+
+                    <table width="90%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px;">
+                        <tr>
+                            <td>
+
+                                <!--[if gte mso 9]>
+                                <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                        <td align="center" valign="top" width="600" style="width:600px;">
+                                <![endif]-->
+                                <table class="fw" align="center" border="0" cellpadding="0" cellspacing="0" width="90%" class="mcnTextBlock"
+                                       style="max-width: 520px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <tr>
+                                        <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                            <table class="fw" align="center" border="0" cellpadding="0" cellspacing="0" width="90%"
+                                                   style="max-width: 520px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnTextContentContainer">
+
+                                                <tr>
+                                                    <!--'questions about this order' block-->
+                                                    <td valign="top" align="center" id="templateLowerBody" class="mcnTextContent"
+                                                        style="padding-left:15px; padding-right:15px; padding-top:10px; text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;font-family:'apercu', Helvetica, sans-serif;line-height: 135%;background-color:#ffffff;">
+
+
+
+                                                        <p class="centerText"
+                                                           style="color: #28343A;font-size: 20px;font-weight:400;text-align: center;margin: 0px 0;padding-top:0px;padding-right:15px;padding-left:15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                            <span align="left" class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                              <font color="#28343A"><span>Questions?</span></font>
+                            </span></p>
+
+                                                        <p class="centerText"
+                                                           style="color: #28343A;font-size: 14px;font-weight:normal;text-align: center;margin: 0px 0;padding-top:10px;padding-right:15px;padding-left:15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;font-family: 'apercu', Helvetica, sans-serif;line-height: 135%;">
+                            <span align="left" class="centerText" style="font-family: 'apercu', Helvetica, sans-serif !important;">
+
+                              <font color="#28343A"><span>Read about <a e-editable="returns" href="https://www.keh.com/shop/faq#returnpolicy" style="color:#F56438;text-decoration:none;">returns</a> or <a e-editable="exchanges" href="https://www.keh.com/shop/faq#returnpolicy" style="color:#F56438;text-decoration:none;">exchanges</a> and <a e-editable="faq" href="https://www.keh.com/shop/faq" style="color:#F56438;text-decoration:none;">FAQ</a>, or <a e-editable="contact" href="https://www.keh.com/shop/contact-us" style="color:#F56438;text-decoration:none;">contact us</a> if you need to get in touch.</span></font>
+                            </span></p>
+
+
+
+                                                    </td>
+                                                    <!--END 'questions' block-->
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+                                    </tr>
+
+                                </table>
+                            </td>
+                        </tr>
+
+
+
+                    </table>
+
+
+
+
+
+
+                    <!-- START padding below grey box -->
+                    <table width="90%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" style="max-width: 520px;">
+                        <tr>
+                            <td height="70"></td>
+                        </tr>
+                    </table>
+
+                </td>
+            </tr>
+
+        </table>
+
+        <!-- END full white block -->
+
+
+
+        <!--start yellow tag-->
+
+        <table width="100%" class="fw" align="center" border="0" cellpadding="0" cellspacing="0" class="mcnImageBlock" style="max-width: 600px;border-collapse: collapse;-webkit-text-size-adjust: 100%;">
+            <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+
+                    <!--[if gte mso 9]>
+                    <center>
+                        <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                            <tr>
+                                <td align="center" valign="top" width="600" style="width:600px;">
+                    <![endif]-->
+
+                    <table class="fw" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="max-width: 600px;border-collapse: collapse;-webkit-text-size-adjust: 100%;">
+
+                        <tr>
+                            <td width="100%" class="fw" class="mcnImageContent" valign="top" style="max-width: 600px; padding-top: 0;padding-bottom: 0px;text-align: center;-webkit-text-size-adjust: 100%;">
+
+
+                                <a e-editable="yellowImageLink" href="https://www.keh.com/shop/about-us"><img e-editable="Image" class="image" align="center" alt="" src="http://image.keh.com/custloads/794428135/md_295804.jpg" width="600" height="auto"
+                                                                                                              style="max-width: 600px !important;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;" /></a>
+
+
+                            </td>
+                        </tr>
+
+                    </table>
+
+                    <!--[if mso]>
+                    </td></tr>
+                    </table>
+                    </center>
+                    <![endif]-->
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <!--end yellow tag-->
+
+
+        <!--start hidden gap for rendering unresponsive gmail to desktop version-->
+
+        <table cellpadding="0" cellspacing="0" border="0" class="hide">
+            <tr>
+                <td height="1" class="hide-mobile" style="min-width:500px; font-size:0px;line-height:0px;text-decoration: none;border:none;">
+
+                </td>
+            </tr>
+        </table>
+        <!--end hidden gap-->
+
+
+
+
+
+
+        <!--start of footer-->
+        <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0" bgcolor="#f5f5f5" style="max-width: 600px;">
+
+            <tr>
+                <td class="two-column" style="padding-top:0;padding-bottom:0;padding-right:10px;padding-left:10px; text-align:center; font-size:0;">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" class="full" width="100%">
+                        <tbody>
+
+
+                        <tr>
+                            <td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" bgcolor="#f5f5f5" align="center">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                                    <tbody>
+                                    <tr>
+                                        <td width="10" height="40" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center">
+                                            <!--[if true]><table width="300" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="300"> <![endif]-->
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 285px; width: 100%;">
+
+                                                <tr>
+                                                    <td align="center" valign="middle" width="45%"><a href="https://www.keh.com/shop"
+                                                                                                      style="display:block; border:0; outline:0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px;font-weight: 500; letter-spacing: 1.5px; line-height:17px; text-decoration: none; text-align: center; text-transform: uppercase;"
+                                                                                                      title="" align="center">SHOP</a></td>
+                                                    <td align="center" style="font-family: 'apercu', Helvetica, sans-serif; font-size:16px;letter-spacing: 1.71px;line-height:19px;text-decoration:none;color:#dfdfdf ;width:0px; text-align:center;color: #28343A">|
+                                                    </td>
+                                                    <td align="center" valign="middle" width="45%"><a href="https://www.keh.com/sell"
+                                                                                                      style="display:block; border:0; outline:0; color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 14px;font-weight: 500; letter-spacing: 1.5px; line-height:17px; text-decoration: none; text-align: center; text-transform: uppercase;"
+                                                                                                      title="sell" align="center"> SELL</a>
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+                                            <!--[if true]></td></tr></table> <![endif]-->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="10" height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" style="padding: 0 10px;">
+                                            <!--[if true]><table width="270" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td align="center" width="270"> <![endif]-->
+
+                                            <!-- START social-->
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="margin: 0 auto; max-width: 270px; width: 100%;">
+                                                <tbody>
+                                                <tr>
+                                                    <td align="center"> <a href="https://www.facebook.com/KEHcamera/"
+                                                                           style="text-decoration:none;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:50; vertical-align: middle; display: block;"> <img alt="Facebook" border="0"
+                                                                                                                                                                                                                                                     src="http://image.keh.com/custloads/794428135/md_298933.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;"
+                                                                                                                                                                                                                                                     title="Facebook" width="24" data-mc-image-bytes="2701" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48" /> </a></td>
+                                                    <td align="center">
+                                                        <a href="https://www.instagram.com/kehcamera/" style="text-decoration:none;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:50; vertical-align: middle; display: block;"> <img
+                                                                alt="Instagram" border="0" src="http://image.keh.com/custloads/794428135/md_298934.png"
+                                                                style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Instagram" width="24" data-mc-image-bytes="3282"
+                                                                data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48" /> </a></td>
+                                                    <td align="center">
+                                                        <a href="https://twitter.com/KEHcamera" style="text-decoration:none;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:50; vertical-align: middle; display: block;"> <img
+                                                                alt="Twitter" border="0" src="http://image.keh.com/custloads/794428135/md_298935.png"
+                                                                style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;" title="Twitter" width="24" data-mc-image-bytes="1891"
+                                                                data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48" /> </a></td>
+                                                    <td align="center"><a href="https://www.youtube.com/user/KEHcamera"
+                                                                          style="text-decoration:none;mso-line-height-rule:exactly;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:50; vertical-align: middle; display: block;"> <img alt="youtube" border="0"
+                                                                                                                                                                                                                                                    src="http://image.keh.com/custloads/794428135/md_298936.png" style="display:block; border:0; outline:0; font-family: 'apercu', Helvetica, sans-serif; font-size:14px; color:#28343A; width:24px; min-width:24px;"
+                                                                                                                                                                                                                                                    title="youtube" width="24" data-mc-image-bytes="3282" data-mc-width="24" data-mc-height="24" data-mc-natural-width="48" data-mc-natural-height="48" /> </a></td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                            <!-- END social-->
+
+                                            <!--[if true]></td></tr></table> <![endif]-->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="center" width="100%">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                                                <tbody>
+                                                <tr>
+                                                    <td width="10" height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="color:#28343A; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none;font-weight: 500;" align="center">Question? <a href="https://www.keh.com/shop/contact-us" style="color:#f56438; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: 500;">
+                                                        <font color="#f56438">Contact us</font>
+                                                    </a> | <a href="https://www.keh.com/shop/privacy-policy"
+                                                              style="color:#f56438; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: 500;">
+                                                        <font color="#f56438">Privacy</font>
+                                                    </a> | <a href="https://www.keh.com/shop/terms-conditions"
+                                                              style="color:#f56438; font-size:10px; letter-spacing: 0.5px;line-height:14px; font-family: 'apercu', Helvetica, sans-serif; text-decoration: none; font-weight: 500;">
+                                                        <font color="#f56438">Terms</font>
+                                                    </a>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="10" height="12" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                                </tr>
+
+
+                                                <tr>
+                                                    <td
+                                                            style="color: #28343A; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; line-height:14px; text-align: center; font-weight: 500; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; padding-left: 20px; padding-right: 20px; letter-spacing: 0.5px;"
+                                                            align="center"> This email was sent to
+
+                                                        <!--START Customer Email in <a> and <font> tags-->
+                                                        <a href="mailto:{{var:customer.email}}"
+                                                           style="color: #f56438; font-family: 'apercu', Helvetica, sans-serif; font-size: 10px; text-align: center; font-weight: 500; text-decoration: none; -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;letter-spacing: 0.5px;">
+                                                            <font color="#f56438">{{var:customer.email:"N/A"}}</font>
+                                                        </a>
+                                                        <!--END Customer Email-->
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td width="10" height="30" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="color:#28343A !important; font-size:10px; letter-spacing: 0px; line-height:14px;; font-family: 'apercu', Helvetica, sans-serif;" align="center"><span>Please do not reply to this email as this account is
+                                  automated and not monitored.
+                                </span></td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td width="10" height="50" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;"> </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        </tbody>
+
+
+
+
+                    </table>
+                </td>
+            </tr>
+
+        </table>
+
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+
+    </td>
+</tr>
+
+
+</body>
+
+
+
+</html>
